@@ -1,0 +1,4062 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6A64-9A68
+
+ Directory of C:\letterboxdclone
+
+24-02-2025  01:40    <DIR>          .
+24-02-2025  01:37    <DIR>          .dart_tool
+23-02-2025  18:47               102 .env
+24-02-2025  01:37             1,597 .flutter-plugins
+24-02-2025  01:37             5,714 .flutter-plugins-dependencies
+22-02-2025  18:42               754 .gitignore
+24-02-2025  01:19    <DIR>          .idea
+22-02-2025  18:43             1,706 .metadata
+22-02-2025  18:42             1,448 analysis_options.yaml
+24-02-2025  01:04    <DIR>          android
+24-02-2025  01:37    <DIR>          build
+24-02-2025  01:41                 0 file_structure.txt
+22-02-2025  18:58               551 firebase.json
+22-02-2025  18:43    <DIR>          ios
+22-02-2025  18:59               706 letterboxdclone.iml
+24-02-2025  01:28    <DIR>          lib
+22-02-2025  18:43    <DIR>          linux
+22-02-2025  18:43    <DIR>          macos
+24-02-2025  01:37            16,381 pubspec.lock
+23-02-2025  22:03             4,030 pubspec.yaml
+22-02-2025  18:42               574 README.md
+22-02-2025  18:42    <DIR>          test
+22-02-2025  18:43    <DIR>          web
+22-02-2025  18:43    <DIR>          windows
+              12 File(s)         33,563 bytes
+
+ Directory of C:\letterboxdclone\.dart_tool
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:40    <DIR>          ..
+24-02-2025  01:37    <DIR>          dartpad
+24-02-2025  01:37    <DIR>          flutter_build
+24-02-2025  01:37            15,290 package_config.json
+24-02-2025  01:37            14,092 package_config_subset
+24-02-2025  01:37                 6 version
+               3 File(s)         29,388 bytes
+
+ Directory of C:\letterboxdclone\.dart_tool\dartpad
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37               672 web_plugin_registrant.dart
+               1 File(s)            672 bytes
+
+ Directory of C:\letterboxdclone\.dart_tool\flutter_build
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37    <DIR>          926fe60789c8d2333d418f93e72d5aa3
+24-02-2025  01:37             3,112 dart_plugin_registrant.dart
+               1 File(s)          3,112 bytes
+
+ Directory of C:\letterboxdclone\.dart_tool\flutter_build\926fe60789c8d2333d418f93e72d5aa3
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37               260 .filecache
+24-02-2025  01:37               159 gen_dart_plugin_registrant.stamp
+24-02-2025  01:37                26 gen_localizations.stamp
+24-02-2025  01:37           160,068 kernel_snapshot_program.d
+24-02-2025  01:37                 2 outputs.json
+24-02-2025  01:37        43,396,072 program.dill
+               6 File(s)     43,556,587 bytes
+
+ Directory of C:\letterboxdclone\.idea
+
+24-02-2025  01:19    <DIR>          .
+24-02-2025  01:40    <DIR>          ..
+22-02-2025  18:43                50 .gitignore
+22-02-2025  18:48    <DIR>          caches
+23-02-2025  22:55    <DIR>          libraries
+23-02-2025  12:26               378 misc.xml
+22-02-2025  18:43               423 modules.xml
+22-02-2025  18:42    <DIR>          runConfigurations
+24-02-2025  01:19             2,299 workspace.xml
+               4 File(s)          3,150 bytes
+
+ Directory of C:\letterboxdclone\.idea\caches
+
+22-02-2025  18:48    <DIR>          .
+24-02-2025  01:19    <DIR>          ..
+22-02-2025  18:48            24,908 deviceStreaming.xml
+               1 File(s)         24,908 bytes
+
+ Directory of C:\letterboxdclone\.idea\libraries
+
+23-02-2025  22:55    <DIR>          .
+24-02-2025  01:19    <DIR>          ..
+23-02-2025  22:11            25,062 Dart_Packages.xml
+22-02-2025  18:43             2,788 Dart_SDK.xml
+23-02-2025  22:55             1,645 Flutter_Plugins.xml
+22-02-2025  18:42               614 KotlinJavaRuntime.xml
+               4 File(s)         30,109 bytes
+
+ Directory of C:\letterboxdclone\.idea\runConfigurations
+
+22-02-2025  18:42    <DIR>          .
+24-02-2025  01:19    <DIR>          ..
+22-02-2025  18:42               276 main_dart.xml
+               1 File(s)            276 bytes
+
+ Directory of C:\letterboxdclone\android
+
+24-02-2025  01:04    <DIR>          .
+24-02-2025  01:40    <DIR>          ..
+22-01-2025  01:52               260 .gitignore
+22-02-2025  19:18    <DIR>          .gradle
+24-02-2025  01:07    <DIR>          app
+24-02-2025  01:04               340 build.gradle
+22-02-2025  18:42    <DIR>          gradle
+23-02-2025  23:30               180 gradle.properties
+22-02-2025  18:43             4,971 gradlew
+22-02-2025  18:43             2,404 gradlew.bat
+22-02-2025  18:43             1,628 letterboxdclone_android.iml
+23-02-2025  20:29               207 local.properties
+24-02-2025  01:03               902 settings.gradle
+               8 File(s)         10,892 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle
+
+22-02-2025  19:18    <DIR>          .
+24-02-2025  01:04    <DIR>          ..
+22-02-2025  19:16    <DIR>          8.3
+22-02-2025  19:15    <DIR>          buildOutputCleanup
+24-02-2025  01:05                 8 file-system.probe
+22-02-2025  19:52    <DIR>          kotlin
+22-02-2025  19:16    <DIR>          vcs-1
+               1 File(s)              8 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle\8.3
+
+22-02-2025  19:16    <DIR>          .
+22-02-2025  19:18    <DIR>          ..
+22-02-2025  19:15    <DIR>          checksums
+22-02-2025  19:16    <DIR>          dependencies-accessors
+22-02-2025  19:15    <DIR>          executionHistory
+22-02-2025  19:16    <DIR>          fileChanges
+22-02-2025  19:15    <DIR>          fileHashes
+23-02-2025  20:21                 0 gc.properties
+22-02-2025  19:15    <DIR>          vcsMetadata
+               1 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle\8.3\checksums
+
+22-02-2025  19:15    <DIR>          .
+22-02-2025  19:16    <DIR>          ..
+24-02-2025  01:37                17 checksums.lock
+24-02-2025  01:12            29,697 md5-checksums.bin
+24-02-2025  01:12            75,137 sha1-checksums.bin
+               3 File(s)        104,851 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle\8.3\dependencies-accessors
+
+22-02-2025  19:16    <DIR>          .
+22-02-2025  19:16    <DIR>          ..
+24-02-2025  01:37                17 dependencies-accessors.lock
+23-02-2025  20:21                 0 gc.properties
+               2 File(s)             17 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle\8.3\executionHistory
+
+22-02-2025  19:15    <DIR>          .
+22-02-2025  19:16    <DIR>          ..
+24-02-2025  01:37         6,591,460 executionHistory.bin
+24-02-2025  01:37                17 executionHistory.lock
+               2 File(s)      6,591,477 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle\8.3\fileChanges
+
+22-02-2025  19:16    <DIR>          .
+22-02-2025  19:16    <DIR>          ..
+24-02-2025  01:37                 1 last-build.bin
+               1 File(s)              1 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle\8.3\fileHashes
+
+22-02-2025  19:15    <DIR>          .
+22-02-2025  19:16    <DIR>          ..
+24-02-2025  01:37           251,919 fileHashes.bin
+24-02-2025  01:37                17 fileHashes.lock
+24-02-2025  01:18            22,713 resourceHashesCache.bin
+               3 File(s)        274,649 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle\8.3\vcsMetadata
+
+22-02-2025  19:15    <DIR>          .
+22-02-2025  19:16    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle\buildOutputCleanup
+
+22-02-2025  19:15    <DIR>          .
+22-02-2025  19:18    <DIR>          ..
+24-02-2025  01:37                17 buildOutputCleanup.lock
+22-02-2025  19:15                51 cache.properties
+24-02-2025  01:37           715,460 outputFiles.bin
+               3 File(s)        715,528 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle\kotlin
+
+22-02-2025  19:52    <DIR>          .
+22-02-2025  19:18    <DIR>          ..
+22-02-2025  19:15    <DIR>          errors
+24-02-2025  01:19    <DIR>          sessions
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle\kotlin\errors
+
+22-02-2025  19:15    <DIR>          .
+22-02-2025  19:52    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle\kotlin\sessions
+
+24-02-2025  01:19    <DIR>          .
+22-02-2025  19:52    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\.gradle\vcs-1
+
+22-02-2025  19:16    <DIR>          .
+22-02-2025  19:18    <DIR>          ..
+23-02-2025  20:21                 0 gc.properties
+               1 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\app
+
+24-02-2025  01:07    <DIR>          .
+24-02-2025  01:04    <DIR>          ..
+24-02-2025  01:07             1,052 build.gradle
+22-02-2025  18:58             1,177 google-services.json
+22-02-2025  18:42    <DIR>          src
+               2 File(s)          2,229 bytes
+
+ Directory of C:\letterboxdclone\android\app\src
+
+22-02-2025  18:42    <DIR>          .
+24-02-2025  01:07    <DIR>          ..
+22-02-2025  18:42    <DIR>          debug
+24-02-2025  01:17    <DIR>          main
+22-02-2025  18:42    <DIR>          profile
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\debug
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-02-2025  18:42               385 AndroidManifest.xml
+               1 File(s)            385 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main
+
+24-02-2025  01:17    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+24-02-2025  01:17             2,266 AndroidManifest.xml
+22-02-2025  18:43    <DIR>          java
+22-02-2025  18:42    <DIR>          kotlin
+22-02-2025  18:42    <DIR>          res
+               1 File(s)          2,266 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\java
+
+22-02-2025  18:43    <DIR>          .
+24-02-2025  01:17    <DIR>          ..
+22-02-2025  18:43    <DIR>          io
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\java\io
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:43    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\java\io\flutter
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:43    <DIR>          plugins
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\java\io\flutter\plugins
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+24-02-2025  01:37             1,839 GeneratedPluginRegistrant.java
+               1 File(s)          1,839 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\kotlin
+
+22-02-2025  18:42    <DIR>          .
+24-02-2025  01:17    <DIR>          ..
+22-02-2025  18:42    <DIR>          com
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\kotlin\com
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-02-2025  18:42    <DIR>          example
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\kotlin\com\example
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-02-2025  18:42    <DIR>          letterboxdclone
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\kotlin\com\example\letterboxdclone
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-02-2025  18:42               133 MainActivity.kt
+               1 File(s)            133 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\res
+
+22-02-2025  18:42    <DIR>          .
+24-02-2025  01:17    <DIR>          ..
+22-02-2025  18:42    <DIR>          drawable
+22-02-2025  18:42    <DIR>          drawable-v21
+22-02-2025  18:42    <DIR>          mipmap-hdpi
+22-02-2025  18:42    <DIR>          mipmap-mdpi
+22-02-2025  18:42    <DIR>          mipmap-xhdpi
+22-02-2025  18:42    <DIR>          mipmap-xxhdpi
+22-02-2025  18:42    <DIR>          mipmap-xxxhdpi
+22-02-2025  18:42    <DIR>          values
+22-02-2025  18:42    <DIR>          values-night
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\res\drawable
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-01-2025  01:52               446 launch_background.xml
+               1 File(s)            446 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\res\drawable-v21
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-01-2025  01:52               450 launch_background.xml
+               1 File(s)            450 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\res\mipmap-hdpi
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-01-2025  01:52               544 ic_launcher.png
+               1 File(s)            544 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\res\mipmap-mdpi
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-01-2025  01:52               442 ic_launcher.png
+               1 File(s)            442 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\res\mipmap-xhdpi
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-01-2025  01:52               721 ic_launcher.png
+               1 File(s)            721 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\res\mipmap-xxhdpi
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-01-2025  01:52             1,031 ic_launcher.png
+               1 File(s)          1,031 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\res\mipmap-xxxhdpi
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-01-2025  01:52             1,443 ic_launcher.png
+               1 File(s)          1,443 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\res\values
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-01-2025  01:52             1,014 styles.xml
+               1 File(s)          1,014 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\main\res\values-night
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-01-2025  01:52             1,013 styles.xml
+               1 File(s)          1,013 bytes
+
+ Directory of C:\letterboxdclone\android\app\src\profile
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-02-2025  18:42               385 AndroidManifest.xml
+               1 File(s)            385 bytes
+
+ Directory of C:\letterboxdclone\android\gradle
+
+22-02-2025  18:42    <DIR>          .
+24-02-2025  01:04    <DIR>          ..
+22-02-2025  18:43    <DIR>          wrapper
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\android\gradle\wrapper
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-02-2025  18:43            53,636 gradle-wrapper.jar
+22-02-2025  18:42               205 gradle-wrapper.properties
+               2 File(s)         53,841 bytes
+
+ Directory of C:\letterboxdclone\build
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:40    <DIR>          ..
+24-02-2025  01:37    <DIR>          1e6c712d8140f1c4a8c637e3d2ea816d
+24-02-2025  01:37    <DIR>          app
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\build\1e6c712d8140f1c4a8c637e3d2ea816d
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37               159 gen_dart_plugin_registrant.stamp
+24-02-2025  01:37                26 gen_localizations.stamp
+24-02-2025  01:37                26 _composite.stamp
+               3 File(s)            211 bytes
+
+ Directory of C:\letterboxdclone\build\app
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37    <DIR>          intermediates
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\build\app\intermediates
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\build\app\intermediates\flutter
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37    <DIR>          debug
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\build\app\intermediates\flutter\debug
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37                32 .last_build_id
+               1 File(s)             32 bytes
+
+ Directory of C:\letterboxdclone\ios
+
+22-02-2025  18:43    <DIR>          .
+24-02-2025  01:40    <DIR>          ..
+22-01-2025  01:52               603 .gitignore
+24-02-2025  01:37    <DIR>          Flutter
+22-02-2025  18:43    <DIR>          Runner
+22-02-2025  18:43    <DIR>          Runner.xcodeproj
+22-02-2025  18:43    <DIR>          Runner.xcworkspace
+22-02-2025  18:42    <DIR>          RunnerTests
+               1 File(s)            603 bytes
+
+ Directory of C:\letterboxdclone\ios\Flutter
+
+24-02-2025  01:37    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52               800 AppFrameworkInfo.plist
+22-01-2025  01:52                31 Debug.xcconfig
+24-02-2025  01:37               557 flutter_export_environment.sh
+24-02-2025  01:37               527 Generated.xcconfig
+22-01-2025  01:52                31 Release.xcconfig
+               5 File(s)          1,946 bytes
+
+ Directory of C:\letterboxdclone\ios\Runner
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52               404 AppDelegate.swift
+22-02-2025  18:43    <DIR>          Assets.xcassets
+22-02-2025  18:43    <DIR>          Base.lproj
+24-02-2025  01:37               378 GeneratedPluginRegistrant.h
+24-02-2025  01:37             1,483 GeneratedPluginRegistrant.m
+22-02-2025  18:43             1,706 Info.plist
+22-01-2025  01:52                39 Runner-Bridging-Header.h
+               5 File(s)          4,010 bytes
+
+ Directory of C:\letterboxdclone\ios\Runner\Assets.xcassets
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:43    <DIR>          AppIcon.appiconset
+22-02-2025  18:43    <DIR>          LaunchImage.imageset
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\ios\Runner\Assets.xcassets\AppIcon.appiconset
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52             2,641 Contents.json
+03-02-2025  11:27            10,932 Icon-App-1024x1024@1x.png
+03-02-2025  11:27               295 Icon-App-20x20@1x.png
+03-02-2025  11:27               406 Icon-App-20x20@2x.png
+03-02-2025  11:27               450 Icon-App-20x20@3x.png
+03-02-2025  11:27               282 Icon-App-29x29@1x.png
+03-02-2025  11:27               462 Icon-App-29x29@2x.png
+03-02-2025  11:27               704 Icon-App-29x29@3x.png
+03-02-2025  11:27               406 Icon-App-40x40@1x.png
+03-02-2025  11:27               586 Icon-App-40x40@2x.png
+03-02-2025  11:27               862 Icon-App-40x40@3x.png
+03-02-2025  11:27               862 Icon-App-60x60@2x.png
+03-02-2025  11:27             1,674 Icon-App-60x60@3x.png
+03-02-2025  11:27               762 Icon-App-76x76@1x.png
+03-02-2025  11:27             1,226 Icon-App-76x76@2x.png
+03-02-2025  11:27             1,418 Icon-App-83.5x83.5@2x.png
+              16 File(s)         23,968 bytes
+
+ Directory of C:\letterboxdclone\ios\Runner\Assets.xcassets\LaunchImage.imageset
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52               414 Contents.json
+03-02-2025  11:27                68 LaunchImage.png
+03-02-2025  11:27                68 LaunchImage@2x.png
+03-02-2025  11:27                68 LaunchImage@3x.png
+22-01-2025  01:52               340 README.md
+               5 File(s)            958 bytes
+
+ Directory of C:\letterboxdclone\ios\Runner\Base.lproj
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52             2,414 LaunchScreen.storyboard
+22-01-2025  01:52             1,631 Main.storyboard
+               2 File(s)          4,045 bytes
+
+ Directory of C:\letterboxdclone\ios\Runner.xcodeproj
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:42            24,312 project.pbxproj
+22-02-2025  18:43    <DIR>          project.xcworkspace
+22-02-2025  18:42    <DIR>          xcshareddata
+               1 File(s)         24,312 bytes
+
+ Directory of C:\letterboxdclone\ios\Runner.xcodeproj\project.xcworkspace
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52               142 contents.xcworkspacedata
+22-02-2025  18:43    <DIR>          xcshareddata
+               1 File(s)            142 bytes
+
+ Directory of C:\letterboxdclone\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52               246 IDEWorkspaceChecks.plist
+22-01-2025  01:52               234 WorkspaceSettings.xcsettings
+               2 File(s)            480 bytes
+
+ Directory of C:\letterboxdclone\ios\Runner.xcodeproj\xcshareddata
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:42    <DIR>          xcschemes
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\ios\Runner.xcodeproj\xcshareddata\xcschemes
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:42    <DIR>          ..
+22-02-2025  18:42             3,745 Runner.xcscheme
+               1 File(s)          3,745 bytes
+
+ Directory of C:\letterboxdclone\ios\Runner.xcworkspace
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52               159 contents.xcworkspacedata
+22-02-2025  18:43    <DIR>          xcshareddata
+               1 File(s)            159 bytes
+
+ Directory of C:\letterboxdclone\ios\Runner.xcworkspace\xcshareddata
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52               246 IDEWorkspaceChecks.plist
+22-01-2025  01:52               234 WorkspaceSettings.xcsettings
+               2 File(s)            480 bytes
+
+ Directory of C:\letterboxdclone\ios\RunnerTests
+
+22-02-2025  18:42    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:42               297 RunnerTests.swift
+               1 File(s)            297 bytes
+
+ Directory of C:\letterboxdclone\lib
+
+24-02-2025  01:28    <DIR>          .
+24-02-2025  01:40    <DIR>          ..
+23-02-2025  15:03    <DIR>          assets
+22-02-2025  18:58             3,106 firebase_options.dart
+24-02-2025  01:28             1,347 main.dart
+23-02-2025  22:05    <DIR>          models
+24-02-2025  01:29    <DIR>          screens
+24-02-2025  01:36    <DIR>          services
+24-02-2025  01:27    <DIR>          utils
+23-02-2025  15:18    <DIR>          widgets
+               2 File(s)          4,453 bytes
+
+ Directory of C:\letterboxdclone\lib\assets
+
+23-02-2025  15:03    <DIR>          .
+24-02-2025  01:28    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\lib\models
+
+23-02-2025  22:05    <DIR>          .
+24-02-2025  01:28    <DIR>          ..
+23-02-2025  22:05             4,787 movieDetails.dart
+23-02-2025  14:57               156 user_model.dart
+               2 File(s)          4,943 bytes
+
+ Directory of C:\letterboxdclone\lib\screens
+
+24-02-2025  01:29    <DIR>          .
+24-02-2025  01:28    <DIR>          ..
+23-02-2025  15:13             4,714 login_page.dart
+24-02-2025  01:29             7,557 popularMoviesPage.dart
+23-02-2025  15:28             4,326 signup_page.dart
+               3 File(s)         16,597 bytes
+
+ Directory of C:\letterboxdclone\lib\services
+
+24-02-2025  01:36    <DIR>          .
+24-02-2025  01:28    <DIR>          ..
+23-02-2025  18:51               635 api_service.dart
+23-02-2025  15:08             2,363 auth_service.dart
+24-02-2025  01:36             1,576 popularmoviesapi.dart
+               3 File(s)          4,574 bytes
+
+ Directory of C:\letterboxdclone\lib\utils
+
+24-02-2025  01:27    <DIR>          .
+24-02-2025  01:28    <DIR>          ..
+24-02-2025  01:27               310 api_constants.dart
+               1 File(s)            310 bytes
+
+ Directory of C:\letterboxdclone\lib\widgets
+
+23-02-2025  15:18    <DIR>          .
+24-02-2025  01:28    <DIR>          ..
+23-02-2025  15:09               931 custom_text_field.dart
+23-02-2025  15:09               664 small_button.dart
+23-02-2025  15:18             1,568 toggle_switch.dart
+               3 File(s)          3,163 bytes
+
+ Directory of C:\letterboxdclone\linux
+
+22-02-2025  18:43    <DIR>          .
+24-02-2025  01:40    <DIR>          ..
+22-01-2025  01:52                19 .gitignore
+22-02-2025  18:43             4,897 CMakeLists.txt
+24-02-2025  01:37    <DIR>          flutter
+22-02-2025  18:43    <DIR>          runner
+               2 File(s)          4,916 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter
+
+24-02-2025  01:37    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52             2,903 CMakeLists.txt
+24-02-2025  01:37    <DIR>          ephemeral
+24-02-2025  01:37               739 generated_plugins.cmake
+24-02-2025  01:37               161 generated_plugin_registrant.cc
+24-02-2025  01:37               303 generated_plugin_registrant.h
+               4 File(s)          4,106 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter\ephemeral
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37    <DIR>          .plugin_symlinks
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter\ephemeral\.plugin_symlinks
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37    <SYMLINKD>     path_provider_linux [\\?\C:\Users\Shraeyaa\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\]
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux
+
+03-02-2025  11:27    <DIR>          .
+23-02-2025  22:04    <DIR>          ..
+03-02-2025  11:27             2,454 AUTHORS
+03-02-2025  11:27             2,571 CHANGELOG.md
+03-02-2025  11:27    <DIR>          example
+03-02-2025  11:27    <DIR>          lib
+03-02-2025  11:27             1,519 LICENSE
+03-02-2025  11:27               758 pubspec.yaml
+03-02-2025  11:27               573 README.md
+03-02-2025  11:27    <DIR>          test
+               5 File(s)          7,875 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\example
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27    <DIR>          integration_test
+03-02-2025  11:27    <DIR>          lib
+03-02-2025  11:27    <DIR>          linux
+03-02-2025  11:27               710 pubspec.yaml
+03-02-2025  11:27               380 README.md
+03-02-2025  11:27    <DIR>          test_driver
+               2 File(s)          1,090 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\example\integration_test
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27             2,426 path_provider_test.dart
+               1 File(s)          2,426 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\example\lib
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27             3,335 main.dart
+               1 File(s)          3,335 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\example\linux
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27             3,697 CMakeLists.txt
+03-02-2025  11:27    <DIR>          flutter
+03-02-2025  11:27               514 main.cc
+03-02-2025  11:27             1,630 my_application.cc
+03-02-2025  11:27               553 my_application.h
+               4 File(s)          6,394 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\example\linux\flutter
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27             2,714 CMakeLists.txt
+03-02-2025  11:27               739 generated_plugins.cmake
+               2 File(s)          3,453 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\example\test_driver
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27               274 integration_test.dart
+               1 File(s)            274 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\lib
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27               204 path_provider_linux.dart
+03-02-2025  11:27    <DIR>          src
+               1 File(s)            204 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\lib\src
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27               441 get_application_id.dart
+03-02-2025  11:27             2,361 get_application_id_real.dart
+03-02-2025  11:27               243 get_application_id_stub.dart
+03-02-2025  11:27             3,404 path_provider_linux.dart
+               4 File(s)          6,449 bytes
+
+ Directory of C:\letterboxdclone\linux\flutter\ephemeral\.plugin_symlinks\path_provider_linux\test
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27             1,642 get_application_id_test.dart
+03-02-2025  11:27             2,871 path_provider_linux_test.dart
+               2 File(s)          4,513 bytes
+
+ Directory of C:\letterboxdclone\linux\runner
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52             1,000 CMakeLists.txt
+22-01-2025  01:52               186 main.cc
+22-02-2025  18:43             4,894 my_application.cc
+22-01-2025  01:52               406 my_application.h
+               4 File(s)          6,486 bytes
+
+ Directory of C:\letterboxdclone\macos
+
+22-02-2025  18:43    <DIR>          .
+24-02-2025  01:40    <DIR>          ..
+22-01-2025  01:52                96 .gitignore
+24-02-2025  01:37    <DIR>          Flutter
+22-02-2025  18:43    <DIR>          Runner
+22-02-2025  18:43    <DIR>          Runner.xcodeproj
+22-02-2025  18:43    <DIR>          Runner.xcworkspace
+22-02-2025  18:43    <DIR>          RunnerTests
+               1 File(s)             96 bytes
+
+ Directory of C:\letterboxdclone\macos\Flutter
+
+24-02-2025  01:37    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+24-02-2025  01:37    <DIR>          ephemeral
+22-01-2025  01:52                49 Flutter-Debug.xcconfig
+22-01-2025  01:52                49 Flutter-Release.xcconfig
+24-02-2025  01:37               729 GeneratedPluginRegistrant.swift
+               3 File(s)            827 bytes
+
+ Directory of C:\letterboxdclone\macos\Flutter\ephemeral
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37               420 Flutter-Generated.xcconfig
+24-02-2025  01:37               519 flutter_export_environment.sh
+               2 File(s)            939 bytes
+
+ Directory of C:\letterboxdclone\macos\Runner
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52               324 AppDelegate.swift
+22-02-2025  18:43    <DIR>          Assets.xcassets
+22-02-2025  18:43    <DIR>          Base.lproj
+22-02-2025  18:43    <DIR>          Configs
+22-01-2025  01:52               360 DebugProfile.entitlements
+22-01-2025  01:52             1,092 Info.plist
+22-01-2025  01:52               403 MainFlutterWindow.swift
+22-01-2025  01:52               248 Release.entitlements
+               5 File(s)          2,427 bytes
+
+ Directory of C:\letterboxdclone\macos\Runner\Assets.xcassets
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:43    <DIR>          AppIcon.appiconset
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\macos\Runner\Assets.xcassets\AppIcon.appiconset
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+03-02-2025  11:27           102,994 app_icon_1024.png
+03-02-2025  11:27             5,680 app_icon_128.png
+03-02-2025  11:27               520 app_icon_16.png
+03-02-2025  11:27            14,142 app_icon_256.png
+03-02-2025  11:27             1,066 app_icon_32.png
+03-02-2025  11:27            36,406 app_icon_512.png
+03-02-2025  11:27             2,218 app_icon_64.png
+22-01-2025  01:52             1,359 Contents.json
+               8 File(s)        164,385 bytes
+
+ Directory of C:\letterboxdclone\macos\Runner\Base.lproj
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52            24,072 MainMenu.xib
+               1 File(s)         24,072 bytes
+
+ Directory of C:\letterboxdclone\macos\Runner\Configs
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:43               631 AppInfo.xcconfig
+22-01-2025  01:52                79 Debug.xcconfig
+22-01-2025  01:52                81 Release.xcconfig
+22-01-2025  01:52               593 Warnings.xcconfig
+               4 File(s)          1,384 bytes
+
+ Directory of C:\letterboxdclone\macos\Runner.xcodeproj
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:43            27,155 project.pbxproj
+22-02-2025  18:43    <DIR>          project.xcworkspace
+22-02-2025  18:43    <DIR>          xcshareddata
+               1 File(s)         27,155 bytes
+
+ Directory of C:\letterboxdclone\macos\Runner.xcodeproj\project.xcworkspace
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:43    <DIR>          xcshareddata
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52               246 IDEWorkspaceChecks.plist
+               1 File(s)            246 bytes
+
+ Directory of C:\letterboxdclone\macos\Runner.xcodeproj\xcshareddata
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:43    <DIR>          xcschemes
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\macos\Runner.xcodeproj\xcshareddata\xcschemes
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:43             3,781 Runner.xcscheme
+               1 File(s)          3,781 bytes
+
+ Directory of C:\letterboxdclone\macos\Runner.xcworkspace
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52               159 contents.xcworkspacedata
+22-02-2025  18:43    <DIR>          xcshareddata
+               1 File(s)            159 bytes
+
+ Directory of C:\letterboxdclone\macos\Runner.xcworkspace\xcshareddata
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52               246 IDEWorkspaceChecks.plist
+               1 File(s)            246 bytes
+
+ Directory of C:\letterboxdclone\macos\RunnerTests
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-02-2025  18:43               302 RunnerTests.swift
+               1 File(s)            302 bytes
+
+ Directory of C:\letterboxdclone\test
+
+22-02-2025  18:42    <DIR>          .
+24-02-2025  01:40    <DIR>          ..
+22-02-2025  18:42             1,096 widget_test.dart
+               1 File(s)          1,096 bytes
+
+ Directory of C:\letterboxdclone\web
+
+22-02-2025  18:43    <DIR>          .
+24-02-2025  01:40    <DIR>          ..
+22-01-2025  01:52               917 favicon.png
+22-02-2025  18:43    <DIR>          icons
+22-02-2025  18:43             1,266 index.html
+22-02-2025  18:43               961 manifest.json
+               3 File(s)          3,144 bytes
+
+ Directory of C:\letterboxdclone\web\icons
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52             5,292 Icon-192.png
+22-01-2025  01:52             8,252 Icon-512.png
+03-02-2025  11:27             5,594 Icon-maskable-192.png
+03-02-2025  11:27            20,998 Icon-maskable-512.png
+               4 File(s)         40,136 bytes
+
+ Directory of C:\letterboxdclone\windows
+
+22-02-2025  18:43    <DIR>          .
+24-02-2025  01:40    <DIR>          ..
+22-01-2025  01:52               308 .gitignore
+22-02-2025  18:43             4,274 CMakeLists.txt
+24-02-2025  01:37    <DIR>          flutter
+22-02-2025  18:43    <DIR>          runner
+               2 File(s)          4,582 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter
+
+24-02-2025  01:37    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52             3,851 CMakeLists.txt
+24-02-2025  01:37    <DIR>          ephemeral
+24-02-2025  01:37               793 generated_plugins.cmake
+24-02-2025  01:37               673 generated_plugin_registrant.cc
+24-02-2025  01:37               302 generated_plugin_registrant.h
+               4 File(s)          5,619 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37    <DIR>          .plugin_symlinks
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks
+
+24-02-2025  01:37    <DIR>          .
+24-02-2025  01:37    <DIR>          ..
+24-02-2025  01:37    <SYMLINKD>     cloud_firestore [\\?\C:\Users\Shraeyaa\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-5.6.4\]
+24-02-2025  01:37    <SYMLINKD>     firebase_auth [\\?\C:\Users\Shraeyaa\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_auth-5.5.0\]
+24-02-2025  01:37    <SYMLINKD>     firebase_core [\\?\C:\Users\Shraeyaa\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.12.0\]
+24-02-2025  01:37    <SYMLINKD>     path_provider_windows [\\?\C:\Users\Shraeyaa\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\]
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  22:04    <DIR>          ..
+23-02-2025  14:13    <DIR>          android
+23-02-2025  14:13            61,750 CHANGELOG.md
+23-02-2025  14:13    <DIR>          dartpad
+23-02-2025  14:13    <DIR>          example
+23-02-2025  14:13    <DIR>          ios
+23-02-2025  14:13    <DIR>          lib
+23-02-2025  14:13             1,528 LICENSE
+23-02-2025  14:13    <DIR>          macos
+23-02-2025  14:13             1,196 pubspec.yaml
+23-02-2025  14:13             1,403 README.md
+23-02-2025  14:13    <DIR>          test
+23-02-2025  14:13    <DIR>          windows
+               4 File(s)         65,877 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\android
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             1,984 build.gradle
+23-02-2025  14:13                37 settings.gradle
+23-02-2025  14:13    <DIR>          src
+23-02-2025  14:13               828 user-agent.gradle
+               3 File(s)          2,849 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\android\src
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          main
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\android\src\main
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               511 AndroidManifest.xml
+23-02-2025  14:13    <DIR>          java
+               1 File(s)            511 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\android\src\main\java
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          io
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\android\src\main\java\io
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\android\src\main\java\io\flutter
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          plugins
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\android\src\main\java\io\flutter\plugins
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          firebase
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\android\src\main\java\io\flutter\plugins\firebase
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          firestore
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\android\src\main\java\io\flutter\plugins\firebase\firestore
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             8,622 FlutterFirebaseFirestoreException.java
+23-02-2025  14:13               699 FlutterFirebaseFirestoreExtension.java
+23-02-2025  14:13            22,700 FlutterFirebaseFirestoreMessageCodec.java
+23-02-2025  14:13            39,186 FlutterFirebaseFirestorePlugin.java
+23-02-2025  14:13               756 FlutterFirebaseFirestoreRegistrar.java
+23-02-2025  14:13               914 FlutterFirebaseFirestoreTransactionResult.java
+23-02-2025  14:13            91,807 GeneratedAndroidFirebaseFirestore.java
+23-02-2025  14:13    <DIR>          streamhandler
+23-02-2025  14:13    <DIR>          utils
+               7 File(s)        164,684 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\android\src\main\java\io\flutter\plugins\firebase\firestore\streamhandler
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             3,034 DocumentSnapshotsStreamHandler.java
+23-02-2025  14:13             1,619 LoadBundleStreamHandler.java
+23-02-2025  14:13               693 OnTransactionResultListener.java
+23-02-2025  14:13             3,899 QuerySnapshotsStreamHandler.java
+23-02-2025  14:13             1,186 SnapshotsInSyncStreamHandler.java
+23-02-2025  14:13             6,963 TransactionStreamHandler.java
+               6 File(s)         17,394 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\android\src\main\java\io\flutter\plugins\firebase\firestore\utils
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             2,421 ExceptionConverter.java
+23-02-2025  14:13            13,930 PigeonParser.java
+23-02-2025  14:13               987 ServerTimestampBehaviorConverter.java
+               3 File(s)         17,338 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\dartpad
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13                75 dartpad_metadata.yaml
+23-02-2025  14:13    <DIR>          lib
+               1 File(s)             75 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\dartpad\lib
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13            12,241 main.dart
+               1 File(s)         12,241 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               327 analysis_options.yaml
+23-02-2025  14:13    <DIR>          android
+23-02-2025  14:13               191 firebase.json
+23-02-2025  14:13    <DIR>          integration_test
+23-02-2025  14:13    <DIR>          ios
+23-02-2025  14:13    <DIR>          lib
+23-02-2025  14:13    <DIR>          macos
+23-02-2025  14:13               364 pubspec.yaml
+23-02-2025  14:13               182 README.md
+23-02-2025  14:13    <DIR>          test_driver
+23-02-2025  14:13    <DIR>          web
+23-02-2025  14:13    <DIR>          windows
+               4 File(s)          1,064 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          app
+23-02-2025  14:13               322 build.gradle
+23-02-2025  14:13    <DIR>          gradle
+23-02-2025  14:13               111 gradle.properties
+23-02-2025  14:13               874 settings.gradle
+               3 File(s)          1,307 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             1,916 build.gradle
+23-02-2025  14:13            19,376 google-services.json
+23-02-2025  14:13    <DIR>          src
+               2 File(s)         21,292 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          debug
+23-02-2025  14:13    <DIR>          main
+23-02-2025  14:13    <DIR>          profile
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\debug
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               378 AndroidManifest.xml
+               1 File(s)            378 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             2,195 AndroidManifest.xml
+23-02-2025  14:13    <DIR>          java
+23-02-2025  14:13    <DIR>          kotlin
+23-02-2025  14:13    <DIR>          res
+               1 File(s)          2,195 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\java
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          io
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\java\io
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\java\io\flutter
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          plugins
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\java\io\flutter\plugins
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\kotlin
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          io
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\kotlin\io
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\kotlin\io\flutter
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          plugins
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\kotlin\io\flutter\plugins
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          firebase
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\kotlin\io\flutter\plugins\firebase
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          firestore
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\kotlin\io\flutter\plugins\firebase\firestore
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          example
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\kotlin\io\flutter\plugins\firebase\firestore\example
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               146 MainActivity.kt
+               1 File(s)            146 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\res
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          drawable
+23-02-2025  14:13    <DIR>          drawable-v21
+23-02-2025  14:13    <DIR>          mipmap-hdpi
+23-02-2025  14:13    <DIR>          mipmap-mdpi
+23-02-2025  14:13    <DIR>          mipmap-xhdpi
+23-02-2025  14:13    <DIR>          mipmap-xxhdpi
+23-02-2025  14:13    <DIR>          mipmap-xxxhdpi
+23-02-2025  14:13    <DIR>          values
+23-02-2025  14:13    <DIR>          values-night
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\res\drawable
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               434 launch_background.xml
+               1 File(s)            434 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\res\drawable-v21
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               438 launch_background.xml
+               1 File(s)            438 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\res\mipmap-hdpi
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               544 ic_launcher.png
+               1 File(s)            544 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\res\mipmap-mdpi
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               442 ic_launcher.png
+               1 File(s)            442 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\res\mipmap-xhdpi
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               721 ic_launcher.png
+               1 File(s)            721 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\res\mipmap-xxhdpi
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             1,031 ic_launcher.png
+               1 File(s)          1,031 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\res\mipmap-xxxhdpi
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             1,443 ic_launcher.png
+               1 File(s)          1,443 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\res\values
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               996 styles.xml
+               1 File(s)            996 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\main\res\values-night
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               995 styles.xml
+               1 File(s)            995 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\app\src\profile
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               378 AndroidManifest.xml
+               1 File(s)            378 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\gradle
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          wrapper
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\android\gradle\wrapper
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               199 gradle-wrapper.properties
+               1 File(s)            199 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\integration_test
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             6,876 collection_reference_e2e.dart
+23-02-2025  14:13             7,253 document_change_e2e.dart
+23-02-2025  14:13            21,553 document_reference_e2e.dart
+23-02-2025  14:13             2,124 e2e_test.dart
+23-02-2025  14:13             9,326 field_value_e2e.dart
+23-02-2025  14:13             3,655 firebase_options.dart
+23-02-2025  14:13             2,854 firebase_options_secondary.dart
+23-02-2025  14:13             1,771 geo_point_e2e.dart
+23-02-2025  14:13            14,532 instance_e2e.dart
+23-02-2025  14:13             8,440 load_bundle_e2e.dart
+23-02-2025  14:13           133,473 query_e2e.dart
+23-02-2025  14:13           103,544 second_database.dart
+23-02-2025  14:13             1,387 settings_e2e.dart
+23-02-2025  14:13             1,535 snapshot_metadata_e2e.dart
+23-02-2025  14:13             1,885 timestamp_e2e.dart
+23-02-2025  14:13            16,942 transaction_e2e.dart
+23-02-2025  14:13             5,410 vector_value_e2e.dart
+23-02-2025  14:13             5,668 web_snapshot_listeners.dart
+23-02-2025  14:13             4,264 write_batch_e2e.dart
+              19 File(s)        352,492 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               275 firebase_app_id_file.json
+23-02-2025  14:13    <DIR>          Flutter
+23-02-2025  14:13             2,569 Podfile
+23-02-2025  14:13    <DIR>          Runner
+23-02-2025  14:13    <DIR>          Runner.xcodeproj
+23-02-2025  14:13    <DIR>          Runner.xcworkspace
+               2 File(s)          2,844 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Flutter
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               774 AppFrameworkInfo.plist
+23-02-2025  14:13               107 Debug.xcconfig
+23-02-2025  14:13               109 Release.xcconfig
+               3 File(s)            990 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               391 AppDelegate.swift
+23-02-2025  14:13    <DIR>          Assets.xcassets
+23-02-2025  14:13    <DIR>          Base.lproj
+23-02-2025  14:13             1,387 GoogleService-Info.plist
+23-02-2025  14:13             1,714 Info.plist
+23-02-2025  14:13                38 Runner-Bridging-Header.h
+               4 File(s)          3,530 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner\Assets.xcassets
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          AppIcon.appiconset
+23-02-2025  14:13    <DIR>          LaunchImage.imageset
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner\Assets.xcassets\AppIcon.appiconset
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             2,519 Contents.json
+23-02-2025  14:13            10,932 Icon-App-1024x1024@1x.png
+23-02-2025  14:13               564 Icon-App-20x20@1x.png
+23-02-2025  14:13             1,283 Icon-App-20x20@2x.png
+23-02-2025  14:13             1,588 Icon-App-20x20@3x.png
+23-02-2025  14:13             1,025 Icon-App-29x29@1x.png
+23-02-2025  14:13             1,716 Icon-App-29x29@2x.png
+23-02-2025  14:13             1,920 Icon-App-29x29@3x.png
+23-02-2025  14:13             1,283 Icon-App-40x40@1x.png
+23-02-2025  14:13             1,895 Icon-App-40x40@2x.png
+23-02-2025  14:13             2,665 Icon-App-40x40@3x.png
+23-02-2025  14:13             2,665 Icon-App-60x60@2x.png
+23-02-2025  14:13             3,831 Icon-App-60x60@3x.png
+23-02-2025  14:13             1,888 Icon-App-76x76@1x.png
+23-02-2025  14:13             3,294 Icon-App-76x76@2x.png
+23-02-2025  14:13             3,612 Icon-App-83.5x83.5@2x.png
+              16 File(s)         42,680 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner\Assets.xcassets\LaunchImage.imageset
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               391 Contents.json
+23-02-2025  14:13                68 LaunchImage.png
+23-02-2025  14:13                68 LaunchImage@2x.png
+23-02-2025  14:13                68 LaunchImage@3x.png
+23-02-2025  14:13               336 README.md
+               5 File(s)            931 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner\Base.lproj
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             2,377 LaunchScreen.storyboard
+23-02-2025  14:13             1,605 Main.storyboard
+               2 File(s)          3,982 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner.xcodeproj
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13            24,954 project.pbxproj
+23-02-2025  14:13    <DIR>          project.xcworkspace
+23-02-2025  14:13    <DIR>          xcshareddata
+               1 File(s)         24,954 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner.xcodeproj\project.xcworkspace
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               135 contents.xcworkspacedata
+23-02-2025  14:13    <DIR>          xcshareddata
+               1 File(s)            135 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               238 IDEWorkspaceChecks.plist
+23-02-2025  14:13    <DIR>          swiftpm
+23-02-2025  14:13               226 WorkspaceSettings.xcsettings
+               2 File(s)            464 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata\swiftpm
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          configuration
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata\swiftpm\configuration
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner.xcodeproj\xcshareddata
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          xcschemes
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner.xcodeproj\xcshareddata\xcschemes
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             4,069 Runner.xcscheme
+               1 File(s)          4,069 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner.xcworkspace
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               224 contents.xcworkspacedata
+23-02-2025  14:13    <DIR>          xcshareddata
+               1 File(s)            224 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner.xcworkspace\xcshareddata
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               238 IDEWorkspaceChecks.plist
+23-02-2025  14:13    <DIR>          swiftpm
+23-02-2025  14:13               226 WorkspaceSettings.xcsettings
+               2 File(s)            464 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner.xcworkspace\xcshareddata\swiftpm
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          configuration
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\ios\Runner.xcworkspace\xcshareddata\swiftpm\configuration
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\lib
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             3,655 firebase_options.dart
+23-02-2025  14:13            16,215 main.dart
+               2 File(s)         19,870 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               275 firebase_app_id_file.json
+23-02-2025  14:13    <DIR>          Flutter
+23-02-2025  14:13             2,425 Podfile
+23-02-2025  14:13    <DIR>          Runner
+23-02-2025  14:13    <DIR>          Runner.xcodeproj
+23-02-2025  14:13    <DIR>          Runner.xcworkspace
+23-02-2025  14:13    <DIR>          RunnerTests
+               2 File(s)          2,700 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Flutter
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               125 Flutter-Debug.xcconfig
+23-02-2025  14:13               127 Flutter-Release.xcconfig
+               2 File(s)            252 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               201 AppDelegate.swift
+23-02-2025  14:13    <DIR>          Assets.xcassets
+23-02-2025  14:13    <DIR>          Base.lproj
+23-02-2025  14:13    <DIR>          Configs
+23-02-2025  14:13               403 DebugProfile.entitlements
+23-02-2025  14:13             1,387 GoogleService-Info.plist
+23-02-2025  14:13             1,060 Info.plist
+23-02-2025  14:13               388 MainFlutterWindow.swift
+23-02-2025  14:13               240 Release.entitlements
+               6 File(s)          3,679 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner\Assets.xcassets
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          AppIcon.appiconset
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner\Assets.xcassets\AppIcon.appiconset
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13           102,994 app_icon_1024.png
+23-02-2025  14:13             5,680 app_icon_128.png
+23-02-2025  14:13               520 app_icon_16.png
+23-02-2025  14:13            14,142 app_icon_256.png
+23-02-2025  14:13             1,066 app_icon_32.png
+23-02-2025  14:13            36,406 app_icon_512.png
+23-02-2025  14:13             2,218 app_icon_64.png
+23-02-2025  14:13             1,291 Contents.json
+               8 File(s)        164,317 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner\Base.lproj
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13            23,729 MainMenu.xib
+               1 File(s)         23,729 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner\Configs
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               653 AppInfo.xcconfig
+23-02-2025  14:13                77 Debug.xcconfig
+23-02-2025  14:13                79 Release.xcconfig
+23-02-2025  14:13               580 Warnings.xcconfig
+               4 File(s)          1,389 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner.xcodeproj
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13            31,282 project.pbxproj
+23-02-2025  14:13    <DIR>          project.xcworkspace
+23-02-2025  14:13    <DIR>          xcshareddata
+               1 File(s)         31,282 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner.xcodeproj\project.xcworkspace
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          xcshareddata
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               238 IDEWorkspaceChecks.plist
+23-02-2025  14:13    <DIR>          swiftpm
+               1 File(s)            238 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata\swiftpm
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          configuration
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata\swiftpm\configuration
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner.xcodeproj\xcshareddata
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          xcschemes
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner.xcodeproj\xcshareddata\xcschemes
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             3,651 Runner.xcscheme
+               1 File(s)          3,651 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner.xcworkspace
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               224 contents.xcworkspacedata
+23-02-2025  14:13    <DIR>          xcshareddata
+               1 File(s)            224 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner.xcworkspace\xcshareddata
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               238 IDEWorkspaceChecks.plist
+23-02-2025  14:13    <DIR>          swiftpm
+               1 File(s)            238 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner.xcworkspace\xcshareddata\swiftpm
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          configuration
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\Runner.xcworkspace\xcshareddata\swiftpm\configuration
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\macos\RunnerTests
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               505 RunnerTests.swift
+               1 File(s)            505 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\test_driver
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               326 integration_test.dart
+               1 File(s)            326 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\web
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               917 favicon.png
+23-02-2025  14:13    <DIR>          icons
+23-02-2025  14:13             1,218 index.html
+23-02-2025  14:13               930 manifest.json
+23-02-2025  14:13               235 wasm_index.html
+               4 File(s)          3,300 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\web\icons
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             5,292 Icon-192.png
+23-02-2025  14:13             8,252 Icon-512.png
+23-02-2025  14:13             5,594 Icon-maskable-192.png
+23-02-2025  14:13            20,998 Icon-maskable-512.png
+               4 File(s)         40,136 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\windows
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             3,931 CMakeLists.txt
+23-02-2025  14:13    <DIR>          flutter
+23-02-2025  14:13    <DIR>          runner
+               1 File(s)          3,931 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\windows\flutter
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             3,742 CMakeLists.txt
+               1 File(s)          3,742 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\windows\runner
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             1,796 CMakeLists.txt
+23-02-2025  14:13             2,333 flutter_window.cpp
+23-02-2025  14:13             1,152 flutter_window.h
+23-02-2025  14:13             1,487 main.cpp
+23-02-2025  14:13               604 resource.h
+23-02-2025  14:13    <DIR>          resources
+23-02-2025  14:13               874 runner.exe.manifest
+23-02-2025  14:13             3,141 Runner.rc
+23-02-2025  14:13             2,030 utils.cpp
+23-02-2025  14:13               896 utils.h
+23-02-2025  14:13             8,585 win32_window.cpp
+23-02-2025  14:13             3,679 win32_window.h
+              11 File(s)         26,577 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\example\windows\runner\resources
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13            33,772 app_icon.ico
+               1 File(s)         33,772 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\ios
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          cloud_firestore
+23-02-2025  14:13             1,712 cloud_firestore.podspec
+23-02-2025  14:13                 6 generated_firebase_sdk_version.txt
+               2 File(s)          1,718 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\ios\cloud_firestore
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             4,258 Package.swift
+23-02-2025  14:13    <DIR>          Sources
+               1 File(s)          4,258 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\ios\cloud_firestore\Sources
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          cloud_firestore
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\ios\cloud_firestore\Sources\cloud_firestore
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13            58,285 FirestoreMessages.g.m
+23-02-2025  14:13            13,122 FirestorePigeonParser.m
+23-02-2025  14:13             3,186 FLTDocumentSnapshotStreamHandler.m
+23-02-2025  14:13               760 FLTFirebaseFirestoreExtension.m
+23-02-2025  14:13            39,216 FLTFirebaseFirestorePlugin.m
+23-02-2025  14:13            12,638 FLTFirebaseFirestoreReader.m
+23-02-2025  14:13             9,574 FLTFirebaseFirestoreUtils.m
+23-02-2025  14:13             8,368 FLTFirebaseFirestoreWriter.m
+23-02-2025  14:13             2,631 FLTLoadBundleStreamHandler.m
+23-02-2025  14:13             4,494 FLTQuerySnapshotStreamHandler.m
+23-02-2025  14:13             1,216 FLTSnapshotsInSyncStreamHandler.m
+23-02-2025  14:13             5,659 FLTTransactionStreamHandler.m
+23-02-2025  14:13    <DIR>          include
+23-02-2025  14:13    <DIR>          Resources
+              12 File(s)        159,149 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\ios\cloud_firestore\Sources\cloud_firestore\include
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          cloud_firestore
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\ios\cloud_firestore\Sources\cloud_firestore\include\cloud_firestore
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          Private
+23-02-2025  14:13    <DIR>          Public
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\ios\cloud_firestore\Sources\cloud_firestore\include\cloud_firestore\Private
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             2,428 FirestorePigeonParser.h
+23-02-2025  14:13             1,214 FLTDocumentSnapshotStreamHandler.h
+23-02-2025  14:13               567 FLTFirebaseFirestoreExtension.h
+23-02-2025  14:13               471 FLTFirebaseFirestoreReader.h
+23-02-2025  14:13             2,655 FLTFirebaseFirestoreUtils.h
+23-02-2025  14:13               427 FLTFirebaseFirestoreWriter.h
+23-02-2025  14:13               968 FLTLoadBundleStreamHandler.h
+23-02-2025  14:13             1,072 FLTQuerySnapshotStreamHandler.h
+23-02-2025  14:13               577 FLTSnapshotsInSyncStreamHandler.h
+23-02-2025  14:13             1,384 FLTTransactionStreamHandler.h
+              10 File(s)         11,763 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\ios\cloud_firestore\Sources\cloud_firestore\include\cloud_firestore\Public
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               411 CustomPigeonHeaderFirestore.h
+23-02-2025  14:13            20,917 FirestoreMessages.g.h
+23-02-2025  14:13               701 FLTFirebaseFirestorePlugin.h
+               3 File(s)         22,029 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\ios\cloud_firestore\Sources\cloud_firestore\Resources
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\lib
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             2,182 cloud_firestore.dart
+23-02-2025  14:13    <DIR>          src
+               1 File(s)          2,182 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\lib\src
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             1,233 aggregate_query.dart
+23-02-2025  14:13             1,081 aggregate_query_snapshot.dart
+23-02-2025  14:13             7,335 collection_reference.dart
+23-02-2025  14:13             2,604 document_change.dart
+23-02-2025  14:13             9,842 document_reference.dart
+23-02-2025  14:13             4,311 document_snapshot.dart
+23-02-2025  14:13             2,757 field_value.dart
+23-02-2025  14:13            10,743 filters.dart
+23-02-2025  14:13            17,313 firestore.dart
+23-02-2025  14:13               605 load_bundle_task.dart
+23-02-2025  14:13             1,163 load_bundle_task_snapshot.dart
+23-02-2025  14:13             1,354 persistent_cache_index_manager.dart
+23-02-2025  14:13            38,692 query.dart
+23-02-2025  14:13             1,945 query_document_snapshot.dart
+23-02-2025  14:13             2,945 query_snapshot.dart
+23-02-2025  14:13             1,321 snapshot_metadata.dart
+23-02-2025  14:13             3,537 transaction.dart
+23-02-2025  14:13    <DIR>          utils
+23-02-2025  14:13             2,562 write_batch.dart
+              18 File(s)        111,343 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\lib\src\utils
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             3,513 codec_utility.dart
+               1 File(s)          3,513 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\macos
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          cloud_firestore
+23-02-2025  14:13             2,809 cloud_firestore.podspec
+               1 File(s)          2,809 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\macos\cloud_firestore
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             4,282 Package.swift
+23-02-2025  14:13    <DIR>          Sources
+               1 File(s)          4,282 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\macos\cloud_firestore\Sources
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          cloud_firestore
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\macos\cloud_firestore\Sources\cloud_firestore
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13            58,285 FirestoreMessages.g.m
+23-02-2025  14:13            13,122 FirestorePigeonParser.m
+23-02-2025  14:13             3,186 FLTDocumentSnapshotStreamHandler.m
+23-02-2025  14:13               760 FLTFirebaseFirestoreExtension.m
+23-02-2025  14:13            39,216 FLTFirebaseFirestorePlugin.m
+23-02-2025  14:13            12,638 FLTFirebaseFirestoreReader.m
+23-02-2025  14:13             9,574 FLTFirebaseFirestoreUtils.m
+23-02-2025  14:13             8,368 FLTFirebaseFirestoreWriter.m
+23-02-2025  14:13             2,631 FLTLoadBundleStreamHandler.m
+23-02-2025  14:13             4,494 FLTQuerySnapshotStreamHandler.m
+23-02-2025  14:13             1,216 FLTSnapshotsInSyncStreamHandler.m
+23-02-2025  14:13             5,659 FLTTransactionStreamHandler.m
+23-02-2025  14:13    <DIR>          include
+23-02-2025  14:13    <DIR>          Resources
+              12 File(s)        159,149 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\macos\cloud_firestore\Sources\cloud_firestore\include
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          cloud_firestore
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\macos\cloud_firestore\Sources\cloud_firestore\include\cloud_firestore
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          Private
+23-02-2025  14:13    <DIR>          Public
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\macos\cloud_firestore\Sources\cloud_firestore\include\cloud_firestore\Private
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             2,428 FirestorePigeonParser.h
+23-02-2025  14:13             1,214 FLTDocumentSnapshotStreamHandler.h
+23-02-2025  14:13               567 FLTFirebaseFirestoreExtension.h
+23-02-2025  14:13               471 FLTFirebaseFirestoreReader.h
+23-02-2025  14:13             2,655 FLTFirebaseFirestoreUtils.h
+23-02-2025  14:13               427 FLTFirebaseFirestoreWriter.h
+23-02-2025  14:13               968 FLTLoadBundleStreamHandler.h
+23-02-2025  14:13             1,072 FLTQuerySnapshotStreamHandler.h
+23-02-2025  14:13               577 FLTSnapshotsInSyncStreamHandler.h
+23-02-2025  14:13             1,384 FLTTransactionStreamHandler.h
+              10 File(s)         11,763 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\macos\cloud_firestore\Sources\cloud_firestore\include\cloud_firestore\Public
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               411 CustomPigeonHeaderFirestore.h
+23-02-2025  14:13            20,917 FirestoreMessages.g.h
+23-02-2025  14:13               701 FLTFirebaseFirestorePlugin.h
+               3 File(s)         22,029 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\macos\cloud_firestore\Sources\cloud_firestore\Resources
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\test
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13             3,897 cloud_firestore_test.dart
+23-02-2025  14:13            10,462 collection_reference_test.dart
+23-02-2025  14:13               606 field_value_test.dart
+23-02-2025  14:13               509 mock.dart
+23-02-2025  14:13            13,094 query_test.dart
+23-02-2025  14:13             3,979 test_firestore_message_codec.dart
+               6 File(s)         32,547 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\windows
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13            64,768 cloud_firestore_plugin.cpp
+23-02-2025  14:13             7,276 cloud_firestore_plugin.h
+23-02-2025  14:13               668 cloud_firestore_plugin_c_api.cpp
+23-02-2025  14:13             5,082 CMakeLists.txt
+23-02-2025  14:13            10,457 firestore_codec.cpp
+23-02-2025  14:13             2,134 firestore_codec.h
+23-02-2025  14:13    <DIR>          include
+23-02-2025  14:13            90,300 messages.g.cpp
+23-02-2025  14:13            28,969 messages.g.h
+23-02-2025  14:13               457 plugin_version.h.in
+23-02-2025  14:13    <DIR>          test
+               9 File(s)        210,111 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\windows\include
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13    <DIR>          cloud_firestore
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\windows\include\cloud_firestore
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               797 cloud_firestore_plugin_c_api.h
+               1 File(s)            797 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\cloud_firestore\windows\test
+
+23-02-2025  14:13    <DIR>          .
+23-02-2025  14:13    <DIR>          ..
+23-02-2025  14:13               749 cloud_firestore_plugin_test.cpp
+               1 File(s)            749 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  22:04    <DIR>          ..
+23-02-2025  12:46    <DIR>          android
+23-02-2025  12:46            59,740 CHANGELOG.md
+23-02-2025  12:46    <DIR>          example
+23-02-2025  12:46    <DIR>          ios
+23-02-2025  12:46    <DIR>          lib
+23-02-2025  12:46             1,558 LICENSE
+23-02-2025  12:46    <DIR>          macos
+23-02-2025  12:46             1,205 pubspec.yaml
+23-02-2025  12:46             1,376 README.md
+23-02-2025  12:46    <DIR>          test
+23-02-2025  12:46    <DIR>          windows
+               4 File(s)         63,879 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\android
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             2,030 build.gradle
+23-02-2025  12:46    <DIR>          gradle
+23-02-2025  12:46                29 gradle.properties
+23-02-2025  12:46                35 settings.gradle
+23-02-2025  12:46    <DIR>          src
+23-02-2025  12:46               829 user-agent.gradle
+               4 File(s)          2,923 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\android\gradle
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          wrapper
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\android\gradle\wrapper
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               200 gradle-wrapper.properties
+               1 File(s)            200 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\android\src
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          main
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\android\src\main
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               496 AndroidManifest.xml
+23-02-2025  12:46    <DIR>          java
+               1 File(s)            496 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\android\src\main\java
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          io
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\android\src\main\java\io
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\android\src\main\java\io\flutter
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          plugins
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\android\src\main\java\io\flutter\plugins
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          firebase
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\android\src\main\java\io\flutter\plugins\firebase
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          auth
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\android\src\main\java\io\flutter\plugins\firebase\auth
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             1,918 AuthStateChannelStreamHandler.java
+23-02-2025  12:46             2,114 Constants.java
+23-02-2025  12:46            26,767 FlutterFirebaseAuthPlugin.java
+23-02-2025  12:46             6,521 FlutterFirebaseAuthPluginException.java
+23-02-2025  12:46               760 FlutterFirebaseAuthRegistrar.java
+23-02-2025  12:46            19,109 FlutterFirebaseAuthUser.java
+23-02-2025  12:46             8,910 FlutterFirebaseMultiFactor.java
+23-02-2025  12:46             3,343 FlutterFirebaseTotpMultiFactor.java
+23-02-2025  12:46             1,385 FlutterFirebaseTotpSecret.java
+23-02-2025  12:46           173,073 GeneratedAndroidFirebaseAuth.java
+23-02-2025  12:46             1,894 IdTokenChannelStreamHandler.java
+23-02-2025  12:46             7,280 PhoneNumberVerificationStreamHandler.java
+23-02-2025  12:46            15,687 PigeonParser.java
+              13 File(s)        268,761 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               172 analysis_options.yaml
+23-02-2025  12:46    <DIR>          android
+23-02-2025  12:46    <DIR>          ios
+23-02-2025  12:46    <DIR>          lib
+23-02-2025  12:46    <DIR>          macos
+23-02-2025  12:46               470 pubspec.yaml
+23-02-2025  12:46             3,362 README.md
+23-02-2025  12:46    <DIR>          web
+23-02-2025  12:46    <DIR>          windows
+               3 File(s)          4,004 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          app
+23-02-2025  12:46               322 build.gradle
+23-02-2025  12:46    <DIR>          gradle
+23-02-2025  12:46               111 gradle.properties
+23-02-2025  12:46               873 settings.gradle
+               3 File(s)          1,306 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             2,027 build.gradle
+23-02-2025  12:46            19,379 google-services.json
+23-02-2025  12:46    <DIR>          src
+               2 File(s)         21,406 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          debug
+23-02-2025  12:46    <DIR>          main
+23-02-2025  12:46    <DIR>          profile
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\debug
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               378 AndroidManifest.xml
+               1 File(s)            378 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             2,195 AndroidManifest.xml
+23-02-2025  12:46    <DIR>          java
+23-02-2025  12:46    <DIR>          kotlin
+23-02-2025  12:46    <DIR>          res
+               1 File(s)          2,195 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\java
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          io
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\java\io
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\java\io\flutter
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          plugins
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\java\io\flutter\plugins
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\kotlin
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          io
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\kotlin\io
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\kotlin\io\flutter
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          plugins
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\kotlin\io\flutter\plugins
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          firebase
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\kotlin\io\flutter\plugins\firebase
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          auth
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\kotlin\io\flutter\plugins\firebase\auth
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          example
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\kotlin\io\flutter\plugins\firebase\auth\example
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               141 MainActivity.kt
+               1 File(s)            141 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\res
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          drawable
+23-02-2025  12:46    <DIR>          drawable-v21
+23-02-2025  12:46    <DIR>          mipmap-hdpi
+23-02-2025  12:46    <DIR>          mipmap-mdpi
+23-02-2025  12:46    <DIR>          mipmap-xhdpi
+23-02-2025  12:46    <DIR>          mipmap-xxhdpi
+23-02-2025  12:46    <DIR>          mipmap-xxxhdpi
+23-02-2025  12:46    <DIR>          values
+23-02-2025  12:46    <DIR>          values-night
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\res\drawable
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               434 launch_background.xml
+               1 File(s)            434 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\res\drawable-v21
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               438 launch_background.xml
+               1 File(s)            438 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\res\mipmap-hdpi
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               544 ic_launcher.png
+               1 File(s)            544 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\res\mipmap-mdpi
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               442 ic_launcher.png
+               1 File(s)            442 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\res\mipmap-xhdpi
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               721 ic_launcher.png
+               1 File(s)            721 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\res\mipmap-xxhdpi
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             1,031 ic_launcher.png
+               1 File(s)          1,031 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\res\mipmap-xxxhdpi
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             1,443 ic_launcher.png
+               1 File(s)          1,443 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\res\values
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               996 styles.xml
+               1 File(s)            996 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\main\res\values-night
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               995 styles.xml
+               1 File(s)            995 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\app\src\profile
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               378 AndroidManifest.xml
+               1 File(s)            378 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\gradle
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          wrapper
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\android\gradle\wrapper
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               200 gradle-wrapper.properties
+               1 File(s)            200 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               275 firebase_app_id_file.json
+23-02-2025  12:46    <DIR>          Flutter
+23-02-2025  12:46             1,594 Podfile
+23-02-2025  12:46    <DIR>          Runner
+23-02-2025  12:46    <DIR>          Runner.xcodeproj
+23-02-2025  12:46    <DIR>          Runner.xcworkspace
+               2 File(s)          1,869 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Flutter
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               885 AppFrameworkInfo.plist
+23-02-2025  12:46               107 Debug.xcconfig
+23-02-2025  12:46               187 Release.xcconfig
+               3 File(s)          1,179 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               103 AppDelegate.h
+23-02-2025  12:46               422 AppDelegate.m
+23-02-2025  12:46               391 AppDelegate.swift
+23-02-2025  12:46    <DIR>          Assets.xcassets
+23-02-2025  12:46    <DIR>          Base.lproj
+23-02-2025  12:46             1,382 GoogleService-Info.plist
+23-02-2025  12:46             2,501 Info.plist
+23-02-2025  12:46               226 main.m
+23-02-2025  12:46                38 Runner-Bridging-Header.h
+23-02-2025  12:46               389 Runner.entitlements
+               8 File(s)          5,452 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner\Assets.xcassets
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          AppIcon.appiconset
+23-02-2025  12:46    <DIR>          LaunchImage.imageset
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner\Assets.xcassets\AppIcon.appiconset
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             2,519 Contents.json
+23-02-2025  12:46            10,932 Icon-App-1024x1024@1x.png
+23-02-2025  12:46               564 Icon-App-20x20@1x.png
+23-02-2025  12:46             1,283 Icon-App-20x20@2x.png
+23-02-2025  12:46             1,588 Icon-App-20x20@3x.png
+23-02-2025  12:46             1,025 Icon-App-29x29@1x.png
+23-02-2025  12:46             1,716 Icon-App-29x29@2x.png
+23-02-2025  12:46             1,920 Icon-App-29x29@3x.png
+23-02-2025  12:46             1,283 Icon-App-40x40@1x.png
+23-02-2025  12:46             1,895 Icon-App-40x40@2x.png
+23-02-2025  12:46             2,665 Icon-App-40x40@3x.png
+23-02-2025  12:46             2,665 Icon-App-60x60@2x.png
+23-02-2025  12:46             3,831 Icon-App-60x60@3x.png
+23-02-2025  12:46             1,888 Icon-App-76x76@1x.png
+23-02-2025  12:46             3,294 Icon-App-76x76@2x.png
+23-02-2025  12:46             3,612 Icon-App-83.5x83.5@2x.png
+              16 File(s)         42,680 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner\Assets.xcassets\LaunchImage.imageset
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               391 Contents.json
+23-02-2025  12:46                68 LaunchImage.png
+23-02-2025  12:46                68 LaunchImage@2x.png
+23-02-2025  12:46                68 LaunchImage@3x.png
+23-02-2025  12:46               336 README.md
+               5 File(s)            931 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner\Base.lproj
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             2,377 LaunchScreen.storyboard
+23-02-2025  12:46             1,605 Main.storyboard
+               2 File(s)          3,982 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner.xcodeproj
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46            22,837 project.pbxproj
+23-02-2025  12:46    <DIR>          project.xcworkspace
+23-02-2025  12:46    <DIR>          xcshareddata
+               1 File(s)         22,837 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner.xcodeproj\project.xcworkspace
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               135 contents.xcworkspacedata
+23-02-2025  12:46    <DIR>          xcshareddata
+               1 File(s)            135 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               238 IDEWorkspaceChecks.plist
+23-02-2025  12:46    <DIR>          swiftpm
+23-02-2025  12:46               226 WorkspaceSettings.xcsettings
+               2 File(s)            464 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata\swiftpm
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          configuration
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata\swiftpm\configuration
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner.xcodeproj\xcshareddata
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          xcschemes
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner.xcodeproj\xcshareddata\xcschemes
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             3,291 Runner.xcscheme
+               1 File(s)          3,291 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner.xcworkspace
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               224 contents.xcworkspacedata
+23-02-2025  12:46    <DIR>          xcshareddata
+               1 File(s)            224 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner.xcworkspace\xcshareddata
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               238 IDEWorkspaceChecks.plist
+23-02-2025  12:46    <DIR>          swiftpm
+23-02-2025  12:46               226 WorkspaceSettings.xcsettings
+               2 File(s)            464 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner.xcworkspace\xcshareddata\swiftpm
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          configuration
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\ios\Runner.xcworkspace\xcshareddata\swiftpm\configuration
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\lib
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46            25,239 auth.dart
+23-02-2025  12:46             3,782 firebase_options.dart
+23-02-2025  12:46             3,694 main.dart
+23-02-2025  12:46            14,687 profile.dart
+               4 File(s)         47,402 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               275 firebase_app_id_file.json
+23-02-2025  12:46    <DIR>          Flutter
+23-02-2025  12:46             1,330 Podfile
+23-02-2025  12:46    <DIR>          Runner
+23-02-2025  12:46    <DIR>          Runner.xcodeproj
+23-02-2025  12:46    <DIR>          Runner.xcworkspace
+               2 File(s)          1,605 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Flutter
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               124 Flutter-Debug.xcconfig
+23-02-2025  12:46               126 Flutter-Release.xcconfig
+               2 File(s)            250 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               201 AppDelegate.swift
+23-02-2025  12:46    <DIR>          Assets.xcassets
+23-02-2025  12:46    <DIR>          Base.lproj
+23-02-2025  12:46    <DIR>          Configs
+23-02-2025  12:46               493 DebugProfile.entitlements
+23-02-2025  12:46             1,382 GoogleService-Info.plist
+23-02-2025  12:46             1,433 Info.plist
+23-02-2025  12:46               393 MainFlutterWindow.swift
+23-02-2025  12:46               385 Release.entitlements
+               6 File(s)          4,287 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner\Assets.xcassets
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          AppIcon.appiconset
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner\Assets.xcassets\AppIcon.appiconset
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46            46,993 app_icon_1024.png
+23-02-2025  12:46             3,276 app_icon_128.png
+23-02-2025  12:46             1,429 app_icon_16.png
+23-02-2025  12:46             5,933 app_icon_256.png
+23-02-2025  12:46             1,243 app_icon_32.png
+23-02-2025  12:46            14,800 app_icon_512.png
+23-02-2025  12:46             1,874 app_icon_64.png
+23-02-2025  12:46             1,291 Contents.json
+               8 File(s)         76,839 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner\Base.lproj
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46            23,488 MainMenu.xib
+               1 File(s)         23,488 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner\Configs
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               615 AppInfo.xcconfig
+23-02-2025  12:46                77 Debug.xcconfig
+23-02-2025  12:46                79 Release.xcconfig
+23-02-2025  12:46               580 Warnings.xcconfig
+               4 File(s)          1,351 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner.xcodeproj
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46            30,862 project.pbxproj
+23-02-2025  12:46    <DIR>          project.xcworkspace
+23-02-2025  12:46    <DIR>          xcshareddata
+               1 File(s)         30,862 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner.xcodeproj\project.xcworkspace
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               235 contents.xcworkspacedata
+23-02-2025  12:46    <DIR>          xcshareddata
+               1 File(s)            235 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               238 IDEWorkspaceChecks.plist
+23-02-2025  12:46    <DIR>          swiftpm
+               1 File(s)            238 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata\swiftpm
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          configuration
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata\swiftpm\configuration
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner.xcodeproj\xcshareddata
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          xcschemes
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner.xcodeproj\xcshareddata\xcschemes
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             3,726 Runner.xcscheme
+               1 File(s)          3,726 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner.xcworkspace
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               224 contents.xcworkspacedata
+23-02-2025  12:46    <DIR>          xcshareddata
+               1 File(s)            224 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner.xcworkspace\xcshareddata
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               238 IDEWorkspaceChecks.plist
+23-02-2025  12:46    <DIR>          swiftpm
+23-02-2025  12:46               226 WorkspaceSettings.xcsettings
+               2 File(s)            464 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner.xcworkspace\xcshareddata\swiftpm
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          configuration
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\macos\Runner.xcworkspace\xcshareddata\swiftpm\configuration
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\web
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               917 favicon.png
+23-02-2025  12:46    <DIR>          icons
+23-02-2025  12:46             1,236 index.html
+23-02-2025  12:46               928 manifest.json
+               3 File(s)          3,081 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\web\icons
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             5,292 Icon-192.png
+23-02-2025  12:46             8,252 Icon-512.png
+23-02-2025  12:46             5,594 Icon-maskable-192.png
+23-02-2025  12:46            20,998 Icon-maskable-512.png
+               4 File(s)         40,136 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\windows
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             3,900 CMakeLists.txt
+23-02-2025  12:46    <DIR>          flutter
+23-02-2025  12:46    <DIR>          runner
+               1 File(s)          3,900 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\windows\flutter
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             3,742 CMakeLists.txt
+               1 File(s)          3,742 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\windows\runner
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             1,796 CMakeLists.txt
+23-02-2025  12:46             2,061 flutter_window.cpp
+23-02-2025  12:46             1,152 flutter_window.h
+23-02-2025  12:46             1,471 main.cpp
+23-02-2025  12:46               604 resource.h
+23-02-2025  12:46    <DIR>          resources
+23-02-2025  12:46               874 runner.exe.manifest
+23-02-2025  12:46             3,067 Runner.rc
+23-02-2025  12:46             2,030 utils.cpp
+23-02-2025  12:46               896 utils.h
+23-02-2025  12:46             8,585 win32_window.cpp
+23-02-2025  12:46             3,679 win32_window.h
+              11 File(s)         26,215 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\example\windows\runner\resources
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46            33,772 app_icon.ico
+               1 File(s)         33,772 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\ios
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          firebase_auth
+23-02-2025  12:46             1,697 firebase_auth.podspec
+23-02-2025  12:46                 6 generated_firebase_sdk_version.txt
+               2 File(s)          1,703 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\ios\firebase_auth
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             4,227 Package.swift
+23-02-2025  12:46    <DIR>          Sources
+               1 File(s)          4,227 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\ios\firebase_auth\Sources
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          firebase_auth
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\ios\firebase_auth\Sources\firebase_auth
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46           123,446 firebase_auth_messages.g.m
+23-02-2025  12:46             1,407 FLTAuthStateChannelStreamHandler.m
+23-02-2025  12:46            98,657 FLTFirebaseAuthPlugin.m
+23-02-2025  12:46             1,378 FLTIdTokenChannelStreamHandler.m
+23-02-2025  12:46             2,800 FLTPhoneNumberVerificationStreamHandler.m
+23-02-2025  12:46    <DIR>          include
+23-02-2025  12:46             7,182 PigeonParser.m
+23-02-2025  12:46    <DIR>          Resources
+               6 File(s)        234,870 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\ios\firebase_auth\Sources\firebase_auth\include
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          Private
+23-02-2025  12:46    <DIR>          Public
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\ios\firebase_auth\Sources\firebase_auth\include\Private
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               611 FLTAuthStateChannelStreamHandler.h
+23-02-2025  12:46               610 FLTIdTokenChannelStreamHandler.h
+23-02-2025  12:46               938 FLTPhoneNumberVerificationStreamHandler.h
+23-02-2025  12:46             1,511 PigeonParser.h
+               4 File(s)          3,670 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\ios\firebase_auth\Sources\firebase_auth\include\Public
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               404 CustomPigeonHeader.h
+23-02-2025  12:46            30,547 firebase_auth_messages.g.h
+23-02-2025  12:46             1,146 FLTFirebaseAuthPlugin.h
+               3 File(s)         32,097 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\ios\firebase_auth\Sources\firebase_auth\Resources
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\lib
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             2,308 firebase_auth.dart
+23-02-2025  12:46    <DIR>          src
+               1 File(s)          2,308 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\lib\src
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             1,125 confirmation_result.dart
+23-02-2025  12:46            36,122 firebase_auth.dart
+23-02-2025  12:46             7,075 multi_factor.dart
+23-02-2025  12:46             3,570 recaptcha_verifier.dart
+23-02-2025  12:46            30,806 user.dart
+23-02-2025  12:46             1,284 user_credential.dart
+               6 File(s)         79,982 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\macos
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          firebase_auth
+23-02-2025  12:46             2,793 firebase_auth.podspec
+               1 File(s)          2,793 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\macos\firebase_auth
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             4,251 Package.swift
+23-02-2025  12:46    <DIR>          Sources
+               1 File(s)          4,251 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\macos\firebase_auth\Sources
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          firebase_auth
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\macos\firebase_auth\Sources\firebase_auth
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46           123,446 firebase_auth_messages.g.m
+23-02-2025  12:46             1,407 FLTAuthStateChannelStreamHandler.m
+23-02-2025  12:46            98,657 FLTFirebaseAuthPlugin.m
+23-02-2025  12:46             1,378 FLTIdTokenChannelStreamHandler.m
+23-02-2025  12:46             2,800 FLTPhoneNumberVerificationStreamHandler.m
+23-02-2025  12:46    <DIR>          include
+23-02-2025  12:46             7,182 PigeonParser.m
+23-02-2025  12:46    <DIR>          Resource
+               6 File(s)        234,870 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\macos\firebase_auth\Sources\firebase_auth\include
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          Private
+23-02-2025  12:46    <DIR>          Public
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\macos\firebase_auth\Sources\firebase_auth\include\Private
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               611 FLTAuthStateChannelStreamHandler.h
+23-02-2025  12:46               610 FLTIdTokenChannelStreamHandler.h
+23-02-2025  12:46               938 FLTPhoneNumberVerificationStreamHandler.h
+23-02-2025  12:46             1,511 PigeonParser.h
+               4 File(s)          3,670 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\macos\firebase_auth\Sources\firebase_auth\include\Public
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               404 CustomPigeonHeader.h
+23-02-2025  12:46            30,547 firebase_auth_messages.g.h
+23-02-2025  12:46             1,146 FLTFirebaseAuthPlugin.h
+               3 File(s)         32,097 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\macos\firebase_auth\Sources\firebase_auth\Resource
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\test
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46            43,021 firebase_auth_test.dart
+23-02-2025  12:46               672 mock.dart
+23-02-2025  12:46            18,569 user_test.dart
+               3 File(s)         62,262 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\windows
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             4,783 CMakeLists.txt
+23-02-2025  12:46            47,780 firebase_auth_plugin.cpp
+23-02-2025  12:46             9,081 firebase_auth_plugin.h
+23-02-2025  12:46               656 firebase_auth_plugin_c_api.cpp
+23-02-2025  12:46    <DIR>          include
+23-02-2025  12:46           198,214 messages.g.cpp
+23-02-2025  12:46            61,919 messages.g.h
+23-02-2025  12:46               453 plugin_version.h.in
+23-02-2025  12:46    <DIR>          test
+               7 File(s)        322,886 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\windows\include
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46    <DIR>          firebase_auth
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\windows\include\firebase_auth
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46               789 firebase_auth_plugin_c_api.h
+               1 File(s)            789 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_auth\windows\test
+
+23-02-2025  12:46    <DIR>          .
+23-02-2025  12:46    <DIR>          ..
+23-02-2025  12:46             1,365 firebase_auth_plugin_test.cpp
+               1 File(s)          1,365 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core
+
+22-02-2025  18:59    <DIR>          .
+23-02-2025  22:04    <DIR>          ..
+22-02-2025  18:59    <DIR>          android
+22-02-2025  18:59            44,263 CHANGELOG.md
+22-02-2025  18:59    <DIR>          example
+22-02-2025  18:59    <DIR>          ios
+22-02-2025  18:59    <DIR>          lib
+22-02-2025  18:59             1,558 LICENSE
+22-02-2025  18:59    <DIR>          macos
+22-02-2025  18:59             1,165 pubspec.yaml
+22-02-2025  18:59             1,327 README.md
+22-02-2025  18:59    <DIR>          test
+22-02-2025  18:59    <DIR>          windows
+               4 File(s)         48,313 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\android
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             1,407 build.gradle
+22-02-2025  18:59    <DIR>          gradle
+22-02-2025  18:59                86 gradle.properties
+22-02-2025  18:59                35 settings.gradle
+22-02-2025  18:59    <DIR>          src
+22-02-2025  18:59               829 user-agent.gradle
+               4 File(s)          2,357 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\android\gradle
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          wrapper
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\android\gradle\wrapper
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               200 gradle-wrapper.properties
+               1 File(s)            200 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\android\src
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          main
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\android\src\main
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               508 AndroidManifest.xml
+22-02-2025  18:59    <DIR>          java
+               1 File(s)            508 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\android\src\main\java
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          io
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\android\src\main\java\io
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\android\src\main\java\io\flutter
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          plugins
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\android\src\main\java\io\flutter\plugins
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          firebase
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\android\src\main\java\io\flutter\plugins\firebase
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          core
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\android\src\main\java\io\flutter\plugins\firebase\core
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59            10,886 FlutterFirebaseCorePlugin.java
+22-02-2025  18:59               746 FlutterFirebaseCoreRegistrar.java
+22-02-2025  18:59             1,522 FlutterFirebasePlugin.java
+22-02-2025  18:59             3,649 FlutterFirebasePluginRegistry.java
+22-02-2025  18:59            26,171 GeneratedAndroidFirebaseCore.java
+               5 File(s)         42,974 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               328 analysis_options.yaml
+22-02-2025  18:59    <DIR>          android
+22-02-2025  18:59    <DIR>          ios
+22-02-2025  18:59    <DIR>          lib
+22-02-2025  18:59    <DIR>          macos
+22-02-2025  18:59               236 pubspec.yaml
+22-02-2025  18:59               578 README.md
+22-02-2025  18:59    <DIR>          web
+22-02-2025  18:59    <DIR>          windows
+               3 File(s)          1,142 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          app
+22-02-2025  18:59               322 build.gradle
+22-02-2025  18:59    <DIR>          gradle
+22-02-2025  18:59               111 gradle.properties
+22-02-2025  18:59               874 settings.gradle
+               3 File(s)          1,307 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             1,902 build.gradle
+22-02-2025  18:59            19,379 google-services.json
+22-02-2025  18:59    <DIR>          src
+               2 File(s)         21,281 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          debug
+22-02-2025  18:59    <DIR>          main
+22-02-2025  18:59    <DIR>          profile
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\debug
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               378 AndroidManifest.xml
+               1 File(s)            378 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             2,207 AndroidManifest.xml
+22-02-2025  18:59    <DIR>          java
+22-02-2025  18:59    <DIR>          kotlin
+22-02-2025  18:59    <DIR>          res
+               1 File(s)          2,207 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\java
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          io
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\java\io
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\java\io\flutter
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          plugins
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\java\io\flutter\plugins
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\kotlin
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          io
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\kotlin\io
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          flutter
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\kotlin\io\flutter
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          plugins
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\kotlin\io\flutter\plugins
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          firebasecoreexample
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\kotlin\io\flutter\plugins\firebasecoreexample
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               139 MainActivity.kt
+               1 File(s)            139 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\res
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          drawable
+22-02-2025  18:59    <DIR>          drawable-v21
+22-02-2025  18:59    <DIR>          mipmap-hdpi
+22-02-2025  18:59    <DIR>          mipmap-mdpi
+22-02-2025  18:59    <DIR>          mipmap-xhdpi
+22-02-2025  18:59    <DIR>          mipmap-xxhdpi
+22-02-2025  18:59    <DIR>          mipmap-xxxhdpi
+22-02-2025  18:59    <DIR>          values
+22-02-2025  18:59    <DIR>          values-night
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\res\drawable
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               434 launch_background.xml
+               1 File(s)            434 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\res\drawable-v21
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               438 launch_background.xml
+               1 File(s)            438 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\res\mipmap-hdpi
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               544 ic_launcher.png
+               1 File(s)            544 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\res\mipmap-mdpi
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               442 ic_launcher.png
+               1 File(s)            442 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\res\mipmap-xhdpi
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               721 ic_launcher.png
+               1 File(s)            721 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\res\mipmap-xxhdpi
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             1,031 ic_launcher.png
+               1 File(s)          1,031 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\res\mipmap-xxxhdpi
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             1,443 ic_launcher.png
+               1 File(s)          1,443 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\res\values
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               996 styles.xml
+               1 File(s)            996 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\main\res\values-night
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               995 styles.xml
+               1 File(s)            995 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\app\src\profile
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               378 AndroidManifest.xml
+               1 File(s)            378 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\gradle
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          wrapper
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\android\gradle\wrapper
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               200 gradle-wrapper.properties
+               1 File(s)            200 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          Flutter
+22-02-2025  18:59             1,329 Podfile
+22-02-2025  18:59    <DIR>          Runner
+22-02-2025  18:59    <DIR>          Runner.xcodeproj
+22-02-2025  18:59    <DIR>          Runner.xcworkspace
+               1 File(s)          1,329 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Flutter
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               795 AppFrameworkInfo.plist
+22-02-2025  18:59               107 Debug.xcconfig
+22-02-2025  18:59               109 Release.xcconfig
+               3 File(s)          1,011 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               103 AppDelegate.h
+22-02-2025  18:59               422 AppDelegate.m
+22-02-2025  18:59    <DIR>          Assets.xcassets
+22-02-2025  18:59    <DIR>          Base.lproj
+22-02-2025  18:59             1,658 Info.plist
+22-02-2025  18:59               226 main.m
+               4 File(s)          2,409 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner\Assets.xcassets
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          AppIcon.appiconset
+22-02-2025  18:59    <DIR>          LaunchImage.imageset
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner\Assets.xcassets\AppIcon.appiconset
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             2,519 Contents.json
+22-02-2025  18:59            10,932 Icon-App-1024x1024@1x.png
+22-02-2025  18:59               564 Icon-App-20x20@1x.png
+22-02-2025  18:59             1,283 Icon-App-20x20@2x.png
+22-02-2025  18:59             1,588 Icon-App-20x20@3x.png
+22-02-2025  18:59             1,025 Icon-App-29x29@1x.png
+22-02-2025  18:59             1,716 Icon-App-29x29@2x.png
+22-02-2025  18:59             1,920 Icon-App-29x29@3x.png
+22-02-2025  18:59             1,283 Icon-App-40x40@1x.png
+22-02-2025  18:59             1,895 Icon-App-40x40@2x.png
+22-02-2025  18:59             2,665 Icon-App-40x40@3x.png
+22-02-2025  18:59             2,665 Icon-App-60x60@2x.png
+22-02-2025  18:59             3,831 Icon-App-60x60@3x.png
+22-02-2025  18:59             1,888 Icon-App-76x76@1x.png
+22-02-2025  18:59             3,294 Icon-App-76x76@2x.png
+22-02-2025  18:59             3,612 Icon-App-83.5x83.5@2x.png
+              16 File(s)         42,680 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner\Assets.xcassets\LaunchImage.imageset
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               391 Contents.json
+22-02-2025  18:59                68 LaunchImage.png
+22-02-2025  18:59                68 LaunchImage@2x.png
+22-02-2025  18:59                68 LaunchImage@3x.png
+22-02-2025  18:59               336 README.md
+               5 File(s)            931 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner\Base.lproj
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             2,377 LaunchScreen.storyboard
+22-02-2025  18:59             1,605 Main.storyboard
+               2 File(s)          3,982 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner.xcodeproj
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59            23,455 project.pbxproj
+22-02-2025  18:59    <DIR>          project.xcworkspace
+22-02-2025  18:59    <DIR>          xcshareddata
+               1 File(s)         23,455 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner.xcodeproj\project.xcworkspace
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               135 contents.xcworkspacedata
+22-02-2025  18:59    <DIR>          xcshareddata
+               1 File(s)            135 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               238 IDEWorkspaceChecks.plist
+22-02-2025  18:59    <DIR>          swiftpm
+               1 File(s)            238 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata\swiftpm
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          configuration
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner.xcodeproj\project.xcworkspace\xcshareddata\swiftpm\configuration
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner.xcodeproj\xcshareddata
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          xcschemes
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner.xcodeproj\xcshareddata\xcschemes
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             4,175 Runner.xcscheme
+               1 File(s)          4,175 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner.xcworkspace
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               224 contents.xcworkspacedata
+22-02-2025  18:59    <DIR>          xcshareddata
+               1 File(s)            224 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner.xcworkspace\xcshareddata
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               238 IDEWorkspaceChecks.plist
+22-02-2025  18:59    <DIR>          swiftpm
+               1 File(s)            238 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner.xcworkspace\xcshareddata\swiftpm
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          configuration
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\ios\Runner.xcworkspace\xcshareddata\swiftpm\configuration
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\lib
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             3,500 firebase_options.dart
+22-02-2025  18:59             3,213 main.dart
+               2 File(s)          6,713 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          Flutter
+22-02-2025  18:59             2,643 Podfile
+22-02-2025  18:59    <DIR>          Runner
+22-02-2025  18:59    <DIR>          Runner.xcodeproj
+22-02-2025  18:59    <DIR>          Runner.xcworkspace
+               1 File(s)          2,643 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Flutter
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               125 Flutter-Debug.xcconfig
+22-02-2025  18:59               127 Flutter-Release.xcconfig
+               2 File(s)            252 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               311 AppDelegate.swift
+22-02-2025  18:59    <DIR>          Assets.xcassets
+22-02-2025  18:59    <DIR>          Base.lproj
+22-02-2025  18:59    <DIR>          Configs
+22-02-2025  18:59               403 DebugProfile.entitlements
+22-02-2025  18:59             1,060 Info.plist
+22-02-2025  18:59               393 MainFlutterWindow.swift
+22-02-2025  18:59               295 Release.entitlements
+               5 File(s)          2,462 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner\Assets.xcassets
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          AppIcon.appiconset
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner\Assets.xcassets\AppIcon.appiconset
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59            46,993 app_icon_1024.png
+22-02-2025  18:59             3,276 app_icon_128.png
+22-02-2025  18:59             1,429 app_icon_16.png
+22-02-2025  18:59             5,933 app_icon_256.png
+22-02-2025  18:59             1,243 app_icon_32.png
+22-02-2025  18:59            14,800 app_icon_512.png
+22-02-2025  18:59             1,874 app_icon_64.png
+22-02-2025  18:59             1,291 Contents.json
+               8 File(s)         76,839 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner\Base.lproj
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59            23,488 MainMenu.xib
+               1 File(s)         23,488 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner\Configs
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               615 AppInfo.xcconfig
+22-02-2025  18:59                77 Debug.xcconfig
+22-02-2025  18:59                79 Release.xcconfig
+22-02-2025  18:59               580 Warnings.xcconfig
+               4 File(s)          1,351 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner.xcodeproj
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59            23,887 project.pbxproj
+22-02-2025  18:59    <DIR>          project.xcworkspace
+22-02-2025  18:59    <DIR>          xcshareddata
+               1 File(s)         23,887 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner.xcodeproj\project.xcworkspace
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               235 contents.xcworkspacedata
+22-02-2025  18:59    <DIR>          xcshareddata
+               1 File(s)            235 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               238 IDEWorkspaceChecks.plist
+22-02-2025  18:59    <DIR>          swiftpm
+               1 File(s)            238 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata\swiftpm
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          configuration
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner.xcodeproj\project.xcworkspace\xcshareddata\swiftpm\configuration
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner.xcodeproj\xcshareddata
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          xcschemes
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner.xcodeproj\xcshareddata\xcschemes
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             4,604 Runner.xcscheme
+               1 File(s)          4,604 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner.xcworkspace
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               224 contents.xcworkspacedata
+22-02-2025  18:59    <DIR>          xcshareddata
+               1 File(s)            224 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner.xcworkspace\xcshareddata
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               238 IDEWorkspaceChecks.plist
+22-02-2025  18:59    <DIR>          swiftpm
+22-02-2025  18:59               226 WorkspaceSettings.xcsettings
+               2 File(s)            464 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner.xcworkspace\xcshareddata\swiftpm
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          configuration
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\macos\Runner.xcworkspace\xcshareddata\swiftpm\configuration
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\web
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               917 favicon.png
+22-02-2025  18:59    <DIR>          icons
+22-02-2025  18:59             1,236 index.html
+22-02-2025  18:59               928 manifest.json
+               3 File(s)          3,081 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\web\icons
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             5,292 Icon-192.png
+22-02-2025  18:59             8,252 Icon-512.png
+22-02-2025  18:59             5,594 Icon-maskable-192.png
+22-02-2025  18:59            20,998 Icon-maskable-512.png
+               4 File(s)         40,136 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\windows
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             3,927 CMakeLists.txt
+22-02-2025  18:59    <DIR>          flutter
+22-02-2025  18:59    <DIR>          runner
+               1 File(s)          3,927 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\windows\flutter
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             3,742 CMakeLists.txt
+               1 File(s)          3,742 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\windows\runner
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             1,796 CMakeLists.txt
+22-02-2025  18:59             2,061 flutter_window.cpp
+22-02-2025  18:59             1,152 flutter_window.h
+22-02-2025  18:59             1,485 main.cpp
+22-02-2025  18:59               604 resource.h
+22-02-2025  18:59    <DIR>          resources
+22-02-2025  18:59               874 runner.exe.manifest
+22-02-2025  18:59             3,081 Runner.rc
+22-02-2025  18:59             1,923 utils.cpp
+22-02-2025  18:59               896 utils.h
+22-02-2025  18:59             8,584 win32_window.cpp
+22-02-2025  18:59             3,683 win32_window.h
+              11 File(s)         26,139 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\example\windows\runner\resources
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59            33,772 app_icon.ico
+               1 File(s)         33,772 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\ios
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          firebase_core
+22-02-2025  18:59             1,626 firebase_core.podspec
+22-02-2025  18:59                99 firebase_sdk_version.rb
+               2 File(s)          1,725 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\ios\firebase_core
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             4,647 Package.swift
+22-02-2025  18:59    <DIR>          Sources
+               1 File(s)          4,647 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\ios\firebase_core\Sources
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          firebase_core
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\ios\firebase_core\Sources\firebase_core
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               216 dummy.m
+22-02-2025  18:59             9,399 FLTFirebaseCorePlugin.m
+22-02-2025  18:59             2,435 FLTFirebasePlugin.m
+22-02-2025  18:59             2,430 FLTFirebasePluginRegistry.m
+22-02-2025  18:59    <DIR>          include
+22-02-2025  18:59            15,490 messages.g.m
+22-02-2025  18:59    <DIR>          Resources
+               5 File(s)         29,970 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\ios\firebase_core\Sources\firebase_core\include
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          firebase_core
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\ios\firebase_core\Sources\firebase_core\include\firebase_core
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               216 dummy.h
+22-02-2025  18:59               626 FLTFirebaseCorePlugin.h
+22-02-2025  18:59             5,707 FLTFirebasePlugin.h
+22-02-2025  18:59             1,672 FLTFirebasePluginRegistry.h
+22-02-2025  18:59             4,977 messages.g.h
+               5 File(s)         13,198 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\ios\firebase_core\Sources\firebase_core\Resources
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\lib
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               643 firebase_core.dart
+22-02-2025  18:59    <DIR>          src
+               1 File(s)            643 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\lib\src
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             3,526 firebase.dart
+22-02-2025  18:59             2,513 firebase_app.dart
+22-02-2025  18:59               631 port_mapping.dart
+               3 File(s)          6,670 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\macos
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          firebase_core
+22-02-2025  18:59             2,605 firebase_core.podspec
+               1 File(s)          2,605 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\macos\firebase_core
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             4,671 Package.swift
+22-02-2025  18:59    <DIR>          Sources
+               1 File(s)          4,671 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\macos\firebase_core\Sources
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          firebase_core
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\macos\firebase_core\Sources\firebase_core
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               216 dummy.m
+22-02-2025  18:59             9,399 FLTFirebaseCorePlugin.m
+22-02-2025  18:59             2,435 FLTFirebasePlugin.m
+22-02-2025  18:59             2,430 FLTFirebasePluginRegistry.m
+22-02-2025  18:59    <DIR>          include
+22-02-2025  18:59            15,490 messages.g.m
+22-02-2025  18:59    <DIR>          Resources
+               5 File(s)         29,970 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\macos\firebase_core\Sources\firebase_core\include
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               216 dummy.h
+22-02-2025  18:59    <DIR>          firebase_core
+               1 File(s)            216 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\macos\firebase_core\Sources\firebase_core\include\firebase_core
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               626 FLTFirebaseCorePlugin.h
+22-02-2025  18:59             5,707 FLTFirebasePlugin.h
+22-02-2025  18:59             1,672 FLTFirebasePluginRegistry.h
+22-02-2025  18:59             4,977 messages.g.h
+               4 File(s)         12,982 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\macos\firebase_core\Sources\firebase_core\Resources
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\test
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             3,355 firebase_core_test.dart
+               1 File(s)          3,355 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59             5,871 CMakeLists.txt
+22-02-2025  18:59             5,749 firebase_core_plugin.cpp
+22-02-2025  18:59             2,110 firebase_core_plugin.h
+22-02-2025  18:59               693 firebase_core_plugin_c_api.cpp
+22-02-2025  18:59    <DIR>          include
+22-02-2025  18:59            25,717 messages.g.cpp
+22-02-2025  18:59             9,360 messages.g.h
+22-02-2025  18:59               453 plugin_version.h.in
+               7 File(s)         49,953 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\include
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59    <DIR>          firebase_core
+               0 File(s)              0 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\firebase_core\windows\include\firebase_core
+
+22-02-2025  18:59    <DIR>          .
+22-02-2025  18:59    <DIR>          ..
+22-02-2025  18:59               730 firebase_core_plugin_c_api.h
+               1 File(s)            730 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows
+
+03-02-2025  11:27    <DIR>          .
+23-02-2025  22:04    <DIR>          ..
+03-02-2025  11:27             2,454 AUTHORS
+03-02-2025  11:27             2,606 CHANGELOG.md
+03-02-2025  11:27    <DIR>          example
+03-02-2025  11:27    <DIR>          lib
+03-02-2025  11:27             1,519 LICENSE
+03-02-2025  11:27               712 pubspec.yaml
+03-02-2025  11:27               522 README.md
+03-02-2025  11:27    <DIR>          test
+               5 File(s)          7,813 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27    <DIR>          integration_test
+03-02-2025  11:27    <DIR>          lib
+03-02-2025  11:27               697 pubspec.yaml
+03-02-2025  11:27               380 README.md
+03-02-2025  11:27    <DIR>          test_driver
+03-02-2025  11:27    <DIR>          windows
+               2 File(s)          1,077 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\integration_test
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27             2,394 path_provider_test.dart
+               1 File(s)          2,394 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\lib
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27             2,992 main.dart
+               1 File(s)          2,992 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\test_driver
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27               274 integration_test.dart
+               1 File(s)            274 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\windows
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27             3,419 CMakeLists.txt
+03-02-2025  11:27    <DIR>          flutter
+03-02-2025  11:27    <DIR>          runner
+               1 File(s)          3,419 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\windows\flutter
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27             3,637 CMakeLists.txt
+03-02-2025  11:27               743 generated_plugins.cmake
+               2 File(s)          4,380 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\windows\runner
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27               589 CMakeLists.txt
+03-02-2025  11:27             2,139 flutter_window.cpp
+03-02-2025  11:27             1,263 flutter_window.h
+03-02-2025  11:27             1,218 main.cpp
+03-02-2025  11:27               380 resource.h
+03-02-2025  11:27    <DIR>          resources
+03-02-2025  11:27               859 runner.exe.manifest
+03-02-2025  11:27             3,040 Runner.rc
+03-02-2025  11:27             2,311 run_loop.cpp
+03-02-2025  11:27             1,167 run_loop.h
+03-02-2025  11:27               634 utils.cpp
+03-02-2025  11:27               397 utils.h
+03-02-2025  11:27             7,051 win32_window.cpp
+03-02-2025  11:27             3,427 win32_window.h
+              13 File(s)         24,475 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\example\windows\runner\resources
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27            33,772 app_icon.ico
+               1 File(s)         33,772 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\lib
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27               531 path_provider_windows.dart
+03-02-2025  11:27    <DIR>          src
+               1 File(s)            531 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\lib\src
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27            12,720 folders.dart
+03-02-2025  11:27               231 folders_stub.dart
+03-02-2025  11:27             1,662 guid.dart
+03-02-2025  11:27             9,670 path_provider_windows_real.dart
+03-02-2025  11:27             1,494 path_provider_windows_stub.dart
+03-02-2025  11:27             5,013 win32_wrappers.dart
+               6 File(s)         30,790 bytes
+
+ Directory of C:\letterboxdclone\windows\flutter\ephemeral\.plugin_symlinks\path_provider_windows\test
+
+03-02-2025  11:27    <DIR>          .
+03-02-2025  11:27    <DIR>          ..
+03-02-2025  11:27             2,075 guid_test.dart
+03-02-2025  11:27             7,526 path_provider_windows_test.dart
+               2 File(s)          9,601 bytes
+
+ Directory of C:\letterboxdclone\windows\runner
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+22-01-2025  01:52             1,836 CMakeLists.txt
+22-01-2025  01:52             2,193 flutter_window.cpp
+22-01-2025  01:52               961 flutter_window.h
+22-02-2025  18:43             1,311 main.cpp
+22-01-2025  01:52               448 resource.h
+22-02-2025  18:43    <DIR>          resources
+22-01-2025  01:52               616 runner.exe.manifest
+22-02-2025  18:43             3,178 Runner.rc
+22-01-2025  01:52             1,862 utils.cpp
+22-01-2025  01:52               691 utils.h
+22-01-2025  01:52             8,822 win32_window.cpp
+22-01-2025  01:52             3,624 win32_window.h
+              11 File(s)         25,542 bytes
+
+ Directory of C:\letterboxdclone\windows\runner\resources
+
+22-02-2025  18:43    <DIR>          .
+22-02-2025  18:43    <DIR>          ..
+03-02-2025  11:27            33,772 app_icon.ico
+               1 File(s)         33,772 bytes
+
+     Total Files Listed:
+             873 File(s)     56,343,770 bytes
+            1363 Dir(s)  178,146,803,712 bytes free

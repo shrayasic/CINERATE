@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "900339154147",
+    "project_id": "letterboxd-clone-fb2fc",
+    "storage_bucket": "letterboxd-clone-fb2fc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900339154147:android:29c4733910dcc0999cd9d6",
+        "android_client_info": {
+          "package_name": "com.example.letterboxd_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALuFW9vLmQLykdqcA11-QJTjWOzFAjqE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900339154147:android:77b2f1392cf2461a9cd9d6",
+        "android_client_info": {
+          "package_name": "com.example.letterboxdclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALuFW9vLmQLykdqcA11-QJTjWOzFAjqE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
